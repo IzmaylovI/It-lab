@@ -1,0 +1,6335 @@
+####################Number_of_collapse = 1
+--------------------
+Size of matrix: 300x300
+Number of threads: 1
+Launch number 1
+time of sequental mult,: 0,345
+time of parallel mult,:  0,344
+
+Launch number 2
+time of sequental mult,: 0,337
+time of parallel mult,:  0,346
+
+Launch number 3
+time of sequental mult,: 0,346
+time of parallel mult,:  0,339
+
+Launch number 4
+time of sequental mult,: 0,353
+time of parallel mult,:  0,379
+
+Launch number 5
+time of sequental mult,: 0,339
+time of parallel mult,:  0,35
+
+Number of threads: 2
+Launch number 1
+time of sequental mult,: 0,35
+time of parallel mult,:  0,172
+
+Launch number 2
+time of sequental mult,: 0,348
+time of parallel mult,:  0,172
+
+Launch number 3
+time of sequental mult,: 0,361
+time of parallel mult,:  0,187
+
+Launch number 4
+time of sequental mult,: 0,336
+time of parallel mult,:  0,172
+
+Launch number 5
+time of sequental mult,: 0,348
+time of parallel mult,:  0,151
+
+Number of threads: 3
+Launch number 1
+time of sequental mult,: 0,224
+time of parallel mult,:  0,0999999
+
+Launch number 2
+time of sequental mult,: 0,2
+time of parallel mult,:  0,0810001
+
+Launch number 3
+time of sequental mult,: 0,205
+time of parallel mult,:  0,063
+
+Launch number 4
+time of sequental mult,: 0,199
+time of parallel mult,:  0,0840001
+
+Launch number 5
+time of sequental mult,: 0,229
+time of parallel mult,:  0,0899999
+
+Number of threads: 4
+Launch number 1
+time of sequental mult,: 0,211
+time of parallel mult,:  0,0809999
+
+Launch number 2
+time of sequental mult,: 0,213
+time of parallel mult,:  0,063
+
+Launch number 3
+time of sequental mult,: 0,203
+time of parallel mult,:  0,0779998
+
+Launch number 4
+time of sequental mult,: 0,211
+time of parallel mult,:  0,0599999
+
+Launch number 5
+time of sequental mult,: 0,191
+time of parallel mult,:  0,063
+
+Number of threads: 5
+Launch number 1
+time of sequental mult,: 0,198
+time of parallel mult,:  0,063
+
+Launch number 2
+time of sequental mult,: 0,193
+time of parallel mult,:  0,0779998
+
+Launch number 3
+time of sequental mult,: 0,193
+time of parallel mult,:  0,0780001
+
+Launch number 4
+time of sequental mult,: 0,203
+time of parallel mult,:  0,063
+
+Launch number 5
+time of sequental mult,: 0,193
+time of parallel mult,:  0,0799999
+
+Number of threads: 6
+Launch number 1
+time of sequental mult,: 0,19
+time of parallel mult,:  0,063
+
+Launch number 2
+time of sequental mult,: 0,198
+time of parallel mult,:  0,0779998
+
+Launch number 3
+time of sequental mult,: 0,207
+time of parallel mult,:  0,0829999
+
+Launch number 4
+time of sequental mult,: 0,198
+time of parallel mult,:  0,0779998
+
+Launch number 5
+time of sequental mult,: 0,198
+time of parallel mult,:  0,0780001
+
+Number of threads: 7
+Launch number 1
+time of sequental mult,: 0,196
+time of parallel mult,:  0,0469999
+
+Launch number 2
+time of sequental mult,: 0,19
+time of parallel mult,:  0,062
+
+Launch number 3
+time of sequental mult,: 0,204
+time of parallel mult,:  0,062
+
+Launch number 4
+time of sequental mult,: 0,21
+time of parallel mult,:  0,063
+
+Launch number 5
+time of sequental mult,: 0,199
+time of parallel mult,:  0,062
+
+Number of threads: 8
+Launch number 1
+time of sequental mult,: 0,204
+time of parallel mult,:  0,0469999
+
+Launch number 2
+time of sequental mult,: 0,208
+time of parallel mult,:  0,0469999
+
+Launch number 3
+time of sequental mult,: 0,202
+time of parallel mult,:  0,0469999
+
+Launch number 4
+time of sequental mult,: 0,201
+time of parallel mult,:  0,0470002
+
+Launch number 5
+time of sequental mult,: 0,202
+time of parallel mult,:  0,062
+
+Number of threads: 9
+Launch number 1
+time of sequental mult,: 0,206
+time of parallel mult,:  0,063
+
+Launch number 2
+time of sequental mult,: 0,2
+time of parallel mult,:  0,0619998
+
+Launch number 3
+time of sequental mult,: 0,196
+time of parallel mult,:  0,062
+
+Launch number 4
+time of sequental mult,: 0,2
+time of parallel mult,:  0,062
+
+Launch number 5
+time of sequental mult,: 0,19
+time of parallel mult,:  0,079
+
+Number of threads: 10
+Launch number 1
+time of sequental mult,: 0,203
+time of parallel mult,:  0,0619998
+
+Launch number 2
+time of sequental mult,: 0,189
+time of parallel mult,:  0,079
+
+Launch number 3
+time of sequental mult,: 0,2
+time of parallel mult,:  0,0619998
+
+Launch number 4
+time of sequental mult,: 0,208
+time of parallel mult,:  0,062
+
+Launch number 5
+time of sequental mult,: 0,198
+time of parallel mult,:  0,063
+
+Number of threads: 11
+Launch number 1
+time of sequental mult,: 0,2
+time of parallel mult,:  0,062
+
+Launch number 2
+time of sequental mult,: 0,202
+time of parallel mult,:  0,062
+
+Launch number 3
+time of sequental mult,: 0,195
+time of parallel mult,:  0,063
+
+Launch number 4
+time of sequental mult,: 0,187
+time of parallel mult,:  0,0470002
+
+Launch number 5
+time of sequental mult,: 0,206
+time of parallel mult,:  0,063
+
+Number of threads: 12
+Launch number 1
+time of sequental mult,: 0,189
+time of parallel mult,:  0,063
+
+Launch number 2
+time of sequental mult,: 0,189
+time of parallel mult,:  0,0469999
+
+Launch number 3
+time of sequental mult,: 0,197
+time of parallel mult,:  0,0640001
+
+Launch number 4
+time of sequental mult,: 0,206
+time of parallel mult,:  0,062
+
+Launch number 5
+time of sequental mult,: 0,194
+time of parallel mult,:  0,063
+
+Number of threads: 13
+Launch number 1
+time of sequental mult,: 0,194
+time of parallel mult,:  0,062
+
+Launch number 2
+time of sequental mult,: 0,205
+time of parallel mult,:  0,0780001
+
+Launch number 3
+time of sequental mult,: 0,198
+time of parallel mult,:  0,062
+
+Launch number 4
+time of sequental mult,: 0,203
+time of parallel mult,:  0,062
+
+Launch number 5
+time of sequental mult,: 0,198
+time of parallel mult,:  0,063
+
+Number of threads: 14
+Launch number 1
+time of sequental mult,: 0,196
+time of parallel mult,:  0,0619998
+
+Launch number 2
+time of sequental mult,: 0,203
+time of parallel mult,:  0,063
+
+Launch number 3
+time of sequental mult,: 0,198
+time of parallel mult,:  0,062
+
+Launch number 4
+time of sequental mult,: 0,194
+time of parallel mult,:  0,062
+
+Launch number 5
+time of sequental mult,: 0,202
+time of parallel mult,:  0,063
+
+Number of threads: 15
+Launch number 1
+time of sequental mult,: 0,196
+time of parallel mult,:  0,062
+
+Launch number 2
+time of sequental mult,: 0,194
+time of parallel mult,:  0,063
+
+Launch number 3
+time of sequental mult,: 0,189
+time of parallel mult,:  0,0469999
+
+Launch number 4
+time of sequental mult,: 0,205
+time of parallel mult,:  0,0619998
+
+Launch number 5
+time of sequental mult,: 0,195
+time of parallel mult,:  0,063
+
+Number of threads: 16
+Launch number 1
+time of sequental mult,: 0,21
+time of parallel mult,:  0,0469999
+
+Launch number 2
+time of sequental mult,: 0,203
+time of parallel mult,:  0,063
+
+Launch number 3
+time of sequental mult,: 0,2
+time of parallel mult,:  0,062
+
+Launch number 4
+time of sequental mult,: 0,192
+time of parallel mult,:  0,0469999
+
+Launch number 5
+time of sequental mult,: 0,196
+time of parallel mult,:  0,062
+
+Number of threads: 17
+Launch number 1
+time of sequental mult,: 0,193
+time of parallel mult,:  0,0640001
+
+Launch number 2
+time of sequental mult,: 0,202
+time of parallel mult,:  0,0619998
+
+Launch number 3
+time of sequental mult,: 0,195
+time of parallel mult,:  0,0780001
+
+Launch number 4
+time of sequental mult,: 0,186
+time of parallel mult,:  0,062
+
+Launch number 5
+time of sequental mult,: 0,196
+time of parallel mult,:  0,0639999
+
+Number of threads: 18
+Launch number 1
+time of sequental mult,: 0,206
+time of parallel mult,:  0,063
+
+Launch number 2
+time of sequental mult,: 0,188
+time of parallel mult,:  0,0470002
+
+Launch number 3
+time of sequental mult,: 0,207
+time of parallel mult,:  0,063
+
+Launch number 4
+time of sequental mult,: 0,2
+time of parallel mult,:  0,063
+
+Launch number 5
+time of sequental mult,: 0,192
+time of parallel mult,:  0,0780001
+
+Number of threads: 19
+Launch number 1
+time of sequental mult,: 0,2
+time of parallel mult,:  0,063
+
+Launch number 2
+time of sequental mult,: 0,201
+time of parallel mult,:  0,062
+
+Launch number 3
+time of sequental mult,: 0,196
+time of parallel mult,:  0,063
+
+Launch number 4
+time of sequental mult,: 0,19
+time of parallel mult,:  0,0539999
+
+Launch number 5
+time of sequental mult,: 0,204
+time of parallel mult,:  0,0619998
+
+Number of threads: 20
+Launch number 1
+time of sequental mult,: 0,201
+time of parallel mult,:  0,062
+
+Launch number 2
+time of sequental mult,: 0,199
+time of parallel mult,:  0,0469999
+
+Launch number 3
+time of sequental mult,: 0,195
+time of parallel mult,:  0,0469999
+
+Launch number 4
+time of sequental mult,: 0,194
+time of parallel mult,:  0,063
+
+Launch number 5
+time of sequental mult,: 0,189
+time of parallel mult,:  0,0469999
+
+--------------------
+Size of matrix: 400x400
+Number of threads: 1
+Launch number 1
+time of sequental mult,: 0,474
+time of parallel mult,:  0,507
+
+Launch number 2
+time of sequental mult,: 0,469
+time of parallel mult,:  0,501
+
+Launch number 3
+time of sequental mult,: 0,48
+time of parallel mult,:  0,511
+
+Launch number 4
+time of sequental mult,: 0,469
+time of parallel mult,:  0,492
+
+Launch number 5
+time of sequental mult,: 0,477
+time of parallel mult,:  0,516
+
+Number of threads: 2
+Launch number 1
+time of sequental mult,: 0,467
+time of parallel mult,:  0,25
+
+Launch number 2
+time of sequental mult,: 0,483
+time of parallel mult,:  0,25
+
+Launch number 3
+time of sequental mult,: 0,47
+time of parallel mult,:  0,265
+
+Launch number 4
+time of sequental mult,: 0,485
+time of parallel mult,:  0,251
+
+Launch number 5
+time of sequental mult,: 0,465
+time of parallel mult,:  0,25
+
+Number of threads: 3
+Launch number 1
+time of sequental mult,: 0,479
+time of parallel mult,:  0,172
+
+Launch number 2
+time of sequental mult,: 0,476
+time of parallel mult,:  0,173
+
+Launch number 3
+time of sequental mult,: 0,486
+time of parallel mult,:  0,172
+
+Launch number 4
+time of sequental mult,: 0,474
+time of parallel mult,:  0,172
+
+Launch number 5
+time of sequental mult,: 0,469
+time of parallel mult,:  0,176
+
+Number of threads: 4
+Launch number 1
+time of sequental mult,: 0,486
+time of parallel mult,:  0,125
+
+Launch number 2
+time of sequental mult,: 0,492
+time of parallel mult,:  0,125
+
+Launch number 3
+time of sequental mult,: 0,471
+time of parallel mult,:  0,125
+
+Launch number 4
+time of sequental mult,: 0,48
+time of parallel mult,:  0,125
+
+Launch number 5
+time of sequental mult,: 0,47
+time of parallel mult,:  0,125
+
+Number of threads: 5
+Launch number 1
+time of sequental mult,: 0,471
+time of parallel mult,:  0,157
+
+Launch number 2
+time of sequental mult,: 0,483
+time of parallel mult,:  0,146
+
+Launch number 3
+time of sequental mult,: 0,484
+time of parallel mult,:  0,157
+
+Launch number 4
+time of sequental mult,: 0,466
+time of parallel mult,:  0,157
+
+Launch number 5
+time of sequental mult,: 0,487
+time of parallel mult,:  0,141
+
+Number of threads: 6
+Launch number 1
+time of sequental mult,: 0,481
+time of parallel mult,:  0,145
+
+Launch number 2
+time of sequental mult,: 0,474
+time of parallel mult,:  0,141
+
+Launch number 3
+time of sequental mult,: 0,489
+time of parallel mult,:  0,14
+
+Launch number 4
+time of sequental mult,: 0,476
+time of parallel mult,:  0,14
+
+Launch number 5
+time of sequental mult,: 0,478
+time of parallel mult,:  0,14
+
+Number of threads: 7
+Launch number 1
+time of sequental mult,: 0,486
+time of parallel mult,:  0,125
+
+Launch number 2
+time of sequental mult,: 0,477
+time of parallel mult,:  0,127
+
+Launch number 3
+time of sequental mult,: 0,474
+time of parallel mult,:  0,125
+
+Launch number 4
+time of sequental mult,: 0,488
+time of parallel mult,:  0,127
+
+Launch number 5
+time of sequental mult,: 0,484
+time of parallel mult,:  0,143
+
+Number of threads: 8
+Launch number 1
+time of sequental mult,: 0,47
+time of parallel mult,:  0,141
+
+Launch number 2
+time of sequental mult,: 0,473
+time of parallel mult,:  0,125
+
+Launch number 3
+time of sequental mult,: 0,47
+time of parallel mult,:  0,126
+
+Launch number 4
+time of sequental mult,: 0,478
+time of parallel mult,:  0,125
+
+Launch number 5
+time of sequental mult,: 0,472
+time of parallel mult,:  0,126
+
+Number of threads: 9
+Launch number 1
+time of sequental mult,: 0,473
+time of parallel mult,:  0,141
+
+Launch number 2
+time of sequental mult,: 0,47
+time of parallel mult,:  0,126
+
+Launch number 3
+time of sequental mult,: 0,474
+time of parallel mult,:  0,141
+
+Launch number 4
+time of sequental mult,: 0,482
+time of parallel mult,:  0,125
+
+Launch number 5
+time of sequental mult,: 0,479
+time of parallel mult,:  0,141
+
+Number of threads: 10
+Launch number 1
+time of sequental mult,: 0,473
+time of parallel mult,:  0,141
+
+Launch number 2
+time of sequental mult,: 0,472
+time of parallel mult,:  0,125
+
+Launch number 3
+time of sequental mult,: 0,469
+time of parallel mult,:  0,125
+
+Launch number 4
+time of sequental mult,: 0,487
+time of parallel mult,:  0,125
+
+Launch number 5
+time of sequental mult,: 0,469
+time of parallel mult,:  0,125
+
+Number of threads: 11
+Launch number 1
+time of sequental mult,: 0,471
+time of parallel mult,:  0,125
+
+Launch number 2
+time of sequental mult,: 0,479
+time of parallel mult,:  0,14
+
+Launch number 3
+time of sequental mult,: 0,471
+time of parallel mult,:  0,125
+
+Launch number 4
+time of sequental mult,: 0,481
+time of parallel mult,:  0,125
+
+Launch number 5
+time of sequental mult,: 0,479
+time of parallel mult,:  0,14
+
+Number of threads: 12
+Launch number 1
+time of sequental mult,: 0,473
+time of parallel mult,:  0,125
+
+Launch number 2
+time of sequental mult,: 0,471
+time of parallel mult,:  0,125
+
+Launch number 3
+time of sequental mult,: 0,472
+time of parallel mult,:  0,13
+
+Launch number 4
+time of sequental mult,: 0,475
+time of parallel mult,:  0,14
+
+Launch number 5
+time of sequental mult,: 0,476
+time of parallel mult,:  0,125
+
+Number of threads: 13
+Launch number 1
+time of sequental mult,: 0,472
+time of parallel mult,:  0,125
+
+Launch number 2
+time of sequental mult,: 0,481
+time of parallel mult,:  0,146
+
+Launch number 3
+time of sequental mult,: 0,472
+time of parallel mult,:  0,14
+
+Launch number 4
+time of sequental mult,: 0,474
+time of parallel mult,:  0,141
+
+Launch number 5
+time of sequental mult,: 0,477
+time of parallel mult,:  0,141
+
+Number of threads: 14
+Launch number 1
+time of sequental mult,: 0,471
+time of parallel mult,:  0,141
+
+Launch number 2
+time of sequental mult,: 0,482
+time of parallel mult,:  0,14
+
+Launch number 3
+time of sequental mult,: 0,484
+time of parallel mult,:  0,141
+
+Launch number 4
+time of sequental mult,: 0,466
+time of parallel mult,:  0,141
+
+Launch number 5
+time of sequental mult,: 0,487
+time of parallel mult,:  0,141
+
+Number of threads: 15
+Launch number 1
+time of sequental mult,: 0,497
+time of parallel mult,:  0,136
+
+Launch number 2
+time of sequental mult,: 0,499
+time of parallel mult,:  0,139
+
+Launch number 3
+time of sequental mult,: 0,495
+time of parallel mult,:  0,137
+
+Launch number 4
+time of sequental mult,: 0,488
+time of parallel mult,:  0,134
+
+Launch number 5
+time of sequental mult,: 0,481
+time of parallel mult,:  0,138
+
+Number of threads: 16
+Launch number 1
+time of sequental mult,: 0,477
+time of parallel mult,:  0,125
+
+Launch number 2
+time of sequental mult,: 0,473
+time of parallel mult,:  0,125
+
+Launch number 3
+time of sequental mult,: 0,47
+time of parallel mult,:  0,141
+
+Launch number 4
+time of sequental mult,: 0,484
+time of parallel mult,:  0,125
+
+Launch number 5
+time of sequental mult,: 0,478
+time of parallel mult,:  0,14
+
+Number of threads: 17
+Launch number 1
+time of sequental mult,: 0,483
+time of parallel mult,:  0,146
+
+Launch number 2
+time of sequental mult,: 0,476
+time of parallel mult,:  0,14
+
+Launch number 3
+time of sequental mult,: 0,48
+time of parallel mult,:  0,15
+
+Launch number 4
+time of sequental mult,: 0,48
+time of parallel mult,:  0,141
+
+Launch number 5
+time of sequental mult,: 0,487
+time of parallel mult,:  0,148
+
+Number of threads: 18
+Launch number 1
+time of sequental mult,: 0,474
+time of parallel mult,:  0,14
+
+Launch number 2
+time of sequental mult,: 0,478
+time of parallel mult,:  0,147
+
+Launch number 3
+time of sequental mult,: 0,489
+time of parallel mult,:  0,141
+
+Launch number 4
+time of sequental mult,: 0,478
+time of parallel mult,:  0,151
+
+Launch number 5
+time of sequental mult,: 0,485
+time of parallel mult,:  0,141
+
+Number of threads: 19
+Launch number 1
+time of sequental mult,: 0,487
+time of parallel mult,:  0,131
+
+Launch number 2
+time of sequental mult,: 0,485
+time of parallel mult,:  0,125
+
+Launch number 3
+time of sequental mult,: 0,478
+time of parallel mult,:  0,132
+
+Launch number 4
+time of sequental mult,: 0,49
+time of parallel mult,:  0,141
+
+Launch number 5
+time of sequental mult,: 0,484
+time of parallel mult,:  0,137
+
+Number of threads: 20
+Launch number 1
+time of sequental mult,: 0,47
+time of parallel mult,:  0,141
+
+Launch number 2
+time of sequental mult,: 0,483
+time of parallel mult,:  0,125
+
+Launch number 3
+time of sequental mult,: 0,478
+time of parallel mult,:  0,141
+
+Launch number 4
+time of sequental mult,: 0,477
+time of parallel mult,:  0,138
+
+Launch number 5
+time of sequental mult,: 0,477
+time of parallel mult,:  0,14
+
+--------------------
+Size of matrix: 500x500
+Number of threads: 1
+Launch number 1
+time of sequental mult,: 0,931
+time of parallel mult,:  0,984
+
+Launch number 2
+time of sequental mult,: 0,922
+time of parallel mult,:  0,975
+
+Launch number 3
+time of sequental mult,: 0,937
+time of parallel mult,:  1,004
+
+Launch number 4
+time of sequental mult,: 0,928
+time of parallel mult,:  0,976
+
+Launch number 5
+time of sequental mult,: 0,934
+time of parallel mult,:  1
+
+Number of threads: 2
+Launch number 1
+time of sequental mult,: 0,93
+time of parallel mult,:  0,5
+
+Launch number 2
+time of sequental mult,: 0,933
+time of parallel mult,:  0,506
+
+Launch number 3
+time of sequental mult,: 0,932
+time of parallel mult,:  0,506
+
+Launch number 4
+time of sequental mult,: 0,942
+time of parallel mult,:  0,501
+
+Launch number 5
+time of sequental mult,: 0,92
+time of parallel mult,:  0,508
+
+Number of threads: 3
+Launch number 1
+time of sequental mult,: 0,93
+time of parallel mult,:  0,343
+
+Launch number 2
+time of sequental mult,: 0,949
+time of parallel mult,:  0,344
+
+Launch number 3
+time of sequental mult,: 0,937
+time of parallel mult,:  0,344
+
+Launch number 4
+time of sequental mult,: 0,929
+time of parallel mult,:  0,328
+
+Launch number 5
+time of sequental mult,: 0,919
+time of parallel mult,:  0,344
+
+Number of threads: 4
+Launch number 1
+time of sequental mult,: 0,944
+time of parallel mult,:  0,25
+
+Launch number 2
+time of sequental mult,: 0,934
+time of parallel mult,:  0,281
+
+Launch number 3
+time of sequental mult,: 0,948
+time of parallel mult,:  0,252
+
+Launch number 4
+time of sequental mult,: 0,925
+time of parallel mult,:  0,267
+
+Launch number 5
+time of sequental mult,: 0,945
+time of parallel mult,:  0,251
+
+Number of threads: 5
+Launch number 1
+time of sequental mult,: 0,94
+time of parallel mult,:  0,292
+
+Launch number 2
+time of sequental mult,: 0,942
+time of parallel mult,:  0,294
+
+Launch number 3
+time of sequental mult,: 0,921
+time of parallel mult,:  0,271
+
+Launch number 4
+time of sequental mult,: 0,945
+time of parallel mult,:  0,263
+
+Launch number 5
+time of sequental mult,: 0,948
+time of parallel mult,:  0,297
+
+Number of threads: 6
+Launch number 1
+time of sequental mult,: 0,934
+time of parallel mult,:  0,266
+
+Launch number 2
+time of sequental mult,: 0,939
+time of parallel mult,:  0,266
+
+Launch number 3
+time of sequental mult,: 0,941
+time of parallel mult,:  0,25
+
+Launch number 4
+time of sequental mult,: 0,929
+time of parallel mult,:  0,282
+
+Launch number 5
+time of sequental mult,: 0,947
+time of parallel mult,:  0,281
+
+Number of threads: 7
+Launch number 1
+time of sequental mult,: 0,927
+time of parallel mult,:  0,265
+
+Launch number 2
+time of sequental mult,: 0,943
+time of parallel mult,:  0,25
+
+Launch number 3
+time of sequental mult,: 0,927
+time of parallel mult,:  0,265
+
+Launch number 4
+time of sequental mult,: 0,936
+time of parallel mult,:  0,25
+
+Launch number 5
+time of sequental mult,: 0,936
+time of parallel mult,:  0,266
+
+Number of threads: 8
+Launch number 1
+time of sequental mult,: 0,931
+time of parallel mult,:  0,25
+
+Launch number 2
+time of sequental mult,: 0,931
+time of parallel mult,:  0,267
+
+Launch number 3
+time of sequental mult,: 0,936
+time of parallel mult,:  0,251
+
+Launch number 4
+time of sequental mult,: 0,937
+time of parallel mult,:  0,277
+
+Launch number 5
+time of sequental mult,: 0,933
+time of parallel mult,:  0,257
+
+Number of threads: 9
+Launch number 1
+time of sequental mult,: 0,936
+time of parallel mult,:  0,266
+
+Launch number 2
+time of sequental mult,: 0,948
+time of parallel mult,:  0,265
+
+Launch number 3
+time of sequental mult,: 0,931
+time of parallel mult,:  0,27
+
+Launch number 4
+time of sequental mult,: 0,941
+time of parallel mult,:  0,266
+
+Launch number 5
+time of sequental mult,: 0,939
+time of parallel mult,:  0,266
+
+Number of threads: 10
+Launch number 1
+time of sequental mult,: 0,947
+time of parallel mult,:  0,266
+
+Launch number 2
+time of sequental mult,: 0,927
+time of parallel mult,:  0,271
+
+Launch number 3
+time of sequental mult,: 0,941
+time of parallel mult,:  0,251
+
+Launch number 4
+time of sequental mult,: 0,924
+time of parallel mult,:  0,265
+
+Launch number 5
+time of sequental mult,: 0,935
+time of parallel mult,:  0,265
+
+Number of threads: 11
+Launch number 1
+time of sequental mult,: 0,933
+time of parallel mult,:  0,265
+
+Launch number 2
+time of sequental mult,: 0,931
+time of parallel mult,:  0,25
+
+Launch number 3
+time of sequental mult,: 0,923
+time of parallel mult,:  0,267
+
+Launch number 4
+time of sequental mult,: 0,94
+time of parallel mult,:  0,251
+
+Launch number 5
+time of sequental mult,: 0,927
+time of parallel mult,:  0,267
+
+Number of threads: 12
+Launch number 1
+time of sequental mult,: 0,953
+time of parallel mult,:  0,251
+
+Launch number 2
+time of sequental mult,: 0,941
+time of parallel mult,:  0,27
+
+Launch number 3
+time of sequental mult,: 0,933
+time of parallel mult,:  0,25
+
+Launch number 4
+time of sequental mult,: 0,932
+time of parallel mult,:  0,281
+
+Launch number 5
+time of sequental mult,: 0,941
+time of parallel mult,:  0,25
+
+Number of threads: 13
+Launch number 1
+time of sequental mult,: 0,93
+time of parallel mult,:  0,272
+
+Launch number 2
+time of sequental mult,: 0,938
+time of parallel mult,:  0,25
+
+Launch number 3
+time of sequental mult,: 0,937
+time of parallel mult,:  0,266
+
+Launch number 4
+time of sequental mult,: 0,929
+time of parallel mult,:  0,25
+
+Launch number 5
+time of sequental mult,: 0,928
+time of parallel mult,:  0,267
+
+Number of threads: 14
+Launch number 1
+time of sequental mult,: 0,936
+time of parallel mult,:  0,25
+
+Launch number 2
+time of sequental mult,: 0,932
+time of parallel mult,:  0,281
+
+Launch number 3
+time of sequental mult,: 0,949
+time of parallel mult,:  0,251
+
+Launch number 4
+time of sequental mult,: 0,937
+time of parallel mult,:  0,282
+
+Launch number 5
+time of sequental mult,: 0,943
+time of parallel mult,:  0,251
+
+Number of threads: 15
+Launch number 1
+time of sequental mult,: 0,927
+time of parallel mult,:  0,267
+
+Launch number 2
+time of sequental mult,: 0,943
+time of parallel mult,:  0,266
+
+Launch number 3
+time of sequental mult,: 0,942
+time of parallel mult,:  0,281
+
+Launch number 4
+time of sequental mult,: 0,93
+time of parallel mult,:  0,25
+
+Launch number 5
+time of sequental mult,: 0,928
+time of parallel mult,:  0,266
+
+Number of threads: 16
+Launch number 1
+time of sequental mult,: 0,937
+time of parallel mult,:  0,25
+
+Launch number 2
+time of sequental mult,: 0,935
+time of parallel mult,:  0,281
+
+Launch number 3
+time of sequental mult,: 0,943
+time of parallel mult,:  0,263
+
+Launch number 4
+time of sequental mult,: 0,932
+time of parallel mult,:  0,266
+
+Launch number 5
+time of sequental mult,: 0,946
+time of parallel mult,:  0,266
+
+Number of threads: 17
+Launch number 1
+time of sequental mult,: 0,92
+time of parallel mult,:  0,265
+
+Launch number 2
+time of sequental mult,: 0,948
+time of parallel mult,:  0,259
+
+Launch number 3
+time of sequental mult,: 0,925
+time of parallel mult,:  0,281
+
+Launch number 4
+time of sequental mult,: 0,934
+time of parallel mult,:  0,25
+
+Launch number 5
+time of sequental mult,: 0,926
+time of parallel mult,:  0,251
+
+Number of threads: 18
+Launch number 1
+time of sequental mult,: 0,942
+time of parallel mult,:  0,267
+
+Launch number 2
+time of sequental mult,: 0,932
+time of parallel mult,:  0,282
+
+Launch number 3
+time of sequental mult,: 0,937
+time of parallel mult,:  0,258
+
+Launch number 4
+time of sequental mult,: 0,922
+time of parallel mult,:  0,271
+
+Launch number 5
+time of sequental mult,: 0,94
+time of parallel mult,:  0,25
+
+Number of threads: 19
+Launch number 1
+time of sequental mult,: 0,925
+time of parallel mult,:  0,266
+
+Launch number 2
+time of sequental mult,: 0,934
+time of parallel mult,:  0,25
+
+Launch number 3
+time of sequental mult,: 0,931
+time of parallel mult,:  0,265
+
+Launch number 4
+time of sequental mult,: 0,944
+time of parallel mult,:  0,266
+
+Launch number 5
+time of sequental mult,: 0,93
+time of parallel mult,:  0,281
+
+Number of threads: 20
+Launch number 1
+time of sequental mult,: 0,947
+time of parallel mult,:  0,255
+
+Launch number 2
+time of sequental mult,: 0,932
+time of parallel mult,:  0,265
+
+Launch number 3
+time of sequental mult,: 0,936
+time of parallel mult,:  0,25
+
+Launch number 4
+time of sequental mult,: 0,928
+time of parallel mult,:  0,281
+
+Launch number 5
+time of sequental mult,: 0,945
+time of parallel mult,:  0,255
+
+--------------------
+Size of matrix: 600x600
+Number of threads: 1
+Launch number 1
+time of sequental mult,: 1,63
+time of parallel mult,:  1,708
+
+Launch number 2
+time of sequental mult,: 1,613
+time of parallel mult,:  1,699
+
+Launch number 3
+time of sequental mult,: 1,606
+time of parallel mult,:  1,711
+
+Launch number 4
+time of sequental mult,: 1,61
+time of parallel mult,:  1,696
+
+Launch number 5
+time of sequental mult,: 1,617
+time of parallel mult,:  1,71
+
+Number of threads: 2
+Launch number 1
+time of sequental mult,: 1,634
+time of parallel mult,:  0,861
+
+Launch number 2
+time of sequental mult,: 1,624
+time of parallel mult,:  0,866
+
+Launch number 3
+time of sequental mult,: 1,645
+time of parallel mult,:  0,862
+
+Launch number 4
+time of sequental mult,: 1,626
+time of parallel mult,:  0,85
+
+Launch number 5
+time of sequental mult,: 1,612
+time of parallel mult,:  0,866
+
+Number of threads: 3
+Launch number 1
+time of sequental mult,: 1,624
+time of parallel mult,:  0,581
+
+Launch number 2
+time of sequental mult,: 1,624
+time of parallel mult,:  0,564
+
+Launch number 3
+time of sequental mult,: 1,618
+time of parallel mult,:  0,57
+
+Launch number 4
+time of sequental mult,: 1,613
+time of parallel mult,:  0,579
+
+Launch number 5
+time of sequental mult,: 1,634
+time of parallel mult,:  0,579
+
+Number of threads: 4
+Launch number 1
+time of sequental mult,: 1,62
+time of parallel mult,:  0,433
+
+Launch number 2
+time of sequental mult,: 1,625
+time of parallel mult,:  0,442
+
+Launch number 3
+time of sequental mult,: 1,618
+time of parallel mult,:  0,429
+
+Launch number 4
+time of sequental mult,: 1,618
+time of parallel mult,:  0,437
+
+Launch number 5
+time of sequental mult,: 1,615
+time of parallel mult,:  0,438
+
+Number of threads: 5
+Launch number 1
+time of sequental mult,: 1,627
+time of parallel mult,:  0,439
+
+Launch number 2
+time of sequental mult,: 1,611
+time of parallel mult,:  0,456
+
+Launch number 3
+time of sequental mult,: 1,619
+time of parallel mult,:  0,472
+
+Launch number 4
+time of sequental mult,: 1,624
+time of parallel mult,:  0,453
+
+Launch number 5
+time of sequental mult,: 1,618
+time of parallel mult,:  0,439
+
+Number of threads: 6
+Launch number 1
+time of sequental mult,: 1,625
+time of parallel mult,:  0,444
+
+Launch number 2
+time of sequental mult,: 1,619
+time of parallel mult,:  0,432
+
+Launch number 3
+time of sequental mult,: 1,615
+time of parallel mult,:  0,439
+
+Launch number 4
+time of sequental mult,: 1,626
+time of parallel mult,:  0,46
+
+Launch number 5
+time of sequental mult,: 1,63
+time of parallel mult,:  0,439
+
+Number of threads: 7
+Launch number 1
+time of sequental mult,: 1,622
+time of parallel mult,:  0,445
+
+Launch number 2
+time of sequental mult,: 1,624
+time of parallel mult,:  0,444
+
+Launch number 3
+time of sequental mult,: 1,624
+time of parallel mult,:  0,45
+
+Launch number 4
+time of sequental mult,: 1,625
+time of parallel mult,:  0,439
+
+Launch number 5
+time of sequental mult,: 1,62
+time of parallel mult,:  0,438
+
+Number of threads: 8
+Launch number 1
+time of sequental mult,: 1,62
+time of parallel mult,:  0,435
+
+Launch number 2
+time of sequental mult,: 1,617
+time of parallel mult,:  0,426
+
+Launch number 3
+time of sequental mult,: 1,623
+time of parallel mult,:  0,455
+
+Launch number 4
+time of sequental mult,: 1,612
+time of parallel mult,:  0,439
+
+Launch number 5
+time of sequental mult,: 1,625
+time of parallel mult,:  0,445
+
+Number of threads: 9
+Launch number 1
+time of sequental mult,: 1,621
+time of parallel mult,:  0,445
+
+Launch number 2
+time of sequental mult,: 1,614
+time of parallel mult,:  0,446
+
+Launch number 3
+time of sequental mult,: 1,617
+time of parallel mult,:  0,441
+
+Launch number 4
+time of sequental mult,: 1,618
+time of parallel mult,:  0,454
+
+Launch number 5
+time of sequental mult,: 1,618
+time of parallel mult,:  0,445
+
+Number of threads: 10
+Launch number 1
+time of sequental mult,: 1,618
+time of parallel mult,:  0,446
+
+Launch number 2
+time of sequental mult,: 1,638
+time of parallel mult,:  0,437
+
+Launch number 3
+time of sequental mult,: 1,627
+time of parallel mult,:  0,426
+
+Launch number 4
+time of sequental mult,: 1,624
+time of parallel mult,:  0,438
+
+Launch number 5
+time of sequental mult,: 1,63
+time of parallel mult,:  0,442
+
+Number of threads: 11
+Launch number 1
+time of sequental mult,: 1,623
+time of parallel mult,:  0,436
+
+Launch number 2
+time of sequental mult,: 1,635
+time of parallel mult,:  0,437
+
+Launch number 3
+time of sequental mult,: 1,632
+time of parallel mult,:  0,422
+
+Launch number 4
+time of sequental mult,: 1,624
+time of parallel mult,:  0,44
+
+Launch number 5
+time of sequental mult,: 1,621
+time of parallel mult,:  0,436
+
+Number of threads: 12
+Launch number 1
+time of sequental mult,: 1,606
+time of parallel mult,:  0,438
+
+Launch number 2
+time of sequental mult,: 1,621
+time of parallel mult,:  0,443
+
+Launch number 3
+time of sequental mult,: 1,609
+time of parallel mult,:  0,444
+
+Launch number 4
+time of sequental mult,: 1,625
+time of parallel mult,:  0,44
+
+Launch number 5
+time of sequental mult,: 1,631
+time of parallel mult,:  0,449
+
+Number of threads: 13
+Launch number 1
+time of sequental mult,: 1,613
+time of parallel mult,:  0,44
+
+Launch number 2
+time of sequental mult,: 1,622
+time of parallel mult,:  0,429
+
+Launch number 3
+time of sequental mult,: 1,614
+time of parallel mult,:  0,431
+
+Launch number 4
+time of sequental mult,: 1,63
+time of parallel mult,:  0,434
+
+Launch number 5
+time of sequental mult,: 1,62
+time of parallel mult,:  0,455
+
+Number of threads: 14
+Launch number 1
+time of sequental mult,: 1,621
+time of parallel mult,:  0,441
+
+Launch number 2
+time of sequental mult,: 1,627
+time of parallel mult,:  0,444
+
+Launch number 3
+time of sequental mult,: 1,621
+time of parallel mult,:  0,443
+
+Launch number 4
+time of sequental mult,: 1,626
+time of parallel mult,:  0,439
+
+Launch number 5
+time of sequental mult,: 1,616
+time of parallel mult,:  0,432
+
+Number of threads: 15
+Launch number 1
+time of sequental mult,: 1,63
+time of parallel mult,:  0,443
+
+Launch number 2
+time of sequental mult,: 1,619
+time of parallel mult,:  0,447
+
+Launch number 3
+time of sequental mult,: 1,629
+time of parallel mult,:  0,433
+
+Launch number 4
+time of sequental mult,: 1,62
+time of parallel mult,:  0,444
+
+Launch number 5
+time of sequental mult,: 1,618
+time of parallel mult,:  0,436
+
+Number of threads: 16
+Launch number 1
+time of sequental mult,: 1,627
+time of parallel mult,:  0,445
+
+Launch number 2
+time of sequental mult,: 1,623
+time of parallel mult,:  0,441
+
+Launch number 3
+time of sequental mult,: 1,632
+time of parallel mult,:  0,441
+
+Launch number 4
+time of sequental mult,: 1,61
+time of parallel mult,:  0,438
+
+Launch number 5
+time of sequental mult,: 1,611
+time of parallel mult,:  0,438
+
+Number of threads: 17
+Launch number 1
+time of sequental mult,: 1,627
+time of parallel mult,:  0,427
+
+Launch number 2
+time of sequental mult,: 1,619
+time of parallel mult,:  0,446
+
+Launch number 3
+time of sequental mult,: 1,616
+time of parallel mult,:  0,439
+
+Launch number 4
+time of sequental mult,: 1,619
+time of parallel mult,:  0,439
+
+Launch number 5
+time of sequental mult,: 1,61
+time of parallel mult,:  0,451
+
+Number of threads: 18
+Launch number 1
+time of sequental mult,: 1,622
+time of parallel mult,:  0,433
+
+Launch number 2
+time of sequental mult,: 1,625
+time of parallel mult,:  0,436
+
+Launch number 3
+time of sequental mult,: 1,621
+time of parallel mult,:  0,436
+
+Launch number 4
+time of sequental mult,: 1,622
+time of parallel mult,:  0,437
+
+Launch number 5
+time of sequental mult,: 1,622
+time of parallel mult,:  0,438
+
+Number of threads: 19
+Launch number 1
+time of sequental mult,: 1,63
+time of parallel mult,:  0,449
+
+Launch number 2
+time of sequental mult,: 1,633
+time of parallel mult,:  0,446
+
+Launch number 3
+time of sequental mult,: 1,612
+time of parallel mult,:  0,441
+
+Launch number 4
+time of sequental mult,: 1,608
+time of parallel mult,:  0,426
+
+Launch number 5
+time of sequental mult,: 1,623
+time of parallel mult,:  0,447
+
+Number of threads: 20
+Launch number 1
+time of sequental mult,: 1,623
+time of parallel mult,:  0,447
+
+Launch number 2
+time of sequental mult,: 1,613
+time of parallel mult,:  0,433
+
+Launch number 3
+time of sequental mult,: 1,621
+time of parallel mult,:  0,43
+
+Launch number 4
+time of sequental mult,: 1,614
+time of parallel mult,:  0,441
+
+Launch number 5
+time of sequental mult,: 1,603
+time of parallel mult,:  0,439
+
+--------------------
+Size of matrix: 700x700
+Number of threads: 1
+Launch number 1
+time of sequental mult,: 2,596
+time of parallel mult,:  2,689
+
+Launch number 2
+time of sequental mult,: 2,584
+time of parallel mult,:  2,734
+
+Launch number 3
+time of sequental mult,: 2,588
+time of parallel mult,:  2,735
+
+Launch number 4
+time of sequental mult,: 2,587
+time of parallel mult,:  2,711
+
+Launch number 5
+time of sequental mult,: 2,578
+time of parallel mult,:  2,776
+
+Number of threads: 2
+Launch number 1
+time of sequental mult,: 2,567
+time of parallel mult,:  1,375
+
+Launch number 2
+time of sequental mult,: 2,57
+time of parallel mult,:  1,375
+
+Launch number 3
+time of sequental mult,: 2,577
+time of parallel mult,:  1,382
+
+Launch number 4
+time of sequental mult,: 2,597
+time of parallel mult,:  1,376
+
+Launch number 5
+time of sequental mult,: 2,589
+time of parallel mult,:  1,371
+
+Number of threads: 3
+Launch number 1
+time of sequental mult,: 2,576
+time of parallel mult,:  0,906
+
+Launch number 2
+time of sequental mult,: 2,57
+time of parallel mult,:  0,922
+
+Launch number 3
+time of sequental mult,: 2,586
+time of parallel mult,:  0,906
+
+Launch number 4
+time of sequental mult,: 2,589
+time of parallel mult,:  0,906
+
+Launch number 5
+time of sequental mult,: 2,579
+time of parallel mult,:  0,906
+
+Number of threads: 4
+Launch number 1
+time of sequental mult,: 2,599
+time of parallel mult,:  0,689
+
+Launch number 2
+time of sequental mult,: 2,573
+time of parallel mult,:  0,694
+
+Launch number 3
+time of sequental mult,: 2,585
+time of parallel mult,:  0,671
+
+Launch number 4
+time of sequental mult,: 2,59
+time of parallel mult,:  0,672
+
+Launch number 5
+time of sequental mult,: 2,582
+time of parallel mult,:  0,695
+
+Number of threads: 5
+Launch number 1
+time of sequental mult,: 2,581
+time of parallel mult,:  0,75
+
+Launch number 2
+time of sequental mult,: 2,588
+time of parallel mult,:  0,704
+
+Launch number 3
+time of sequental mult,: 2,585
+time of parallel mult,:  0,742
+
+Launch number 4
+time of sequental mult,: 2,576
+time of parallel mult,:  0,719
+
+Launch number 5
+time of sequental mult,: 2,573
+time of parallel mult,:  0,719
+
+Number of threads: 6
+Launch number 1
+time of sequental mult,: 2,572
+time of parallel mult,:  0,694
+
+Launch number 2
+time of sequental mult,: 2,578
+time of parallel mult,:  0,703
+
+Launch number 3
+time of sequental mult,: 2,577
+time of parallel mult,:  0,734
+
+Launch number 4
+time of sequental mult,: 2,583
+time of parallel mult,:  0,688
+
+Launch number 5
+time of sequental mult,: 2,578
+time of parallel mult,:  0,688
+
+Number of threads: 7
+Launch number 1
+time of sequental mult,: 2,58
+time of parallel mult,:  0,703
+
+Launch number 2
+time of sequental mult,: 2,579
+time of parallel mult,:  0,694
+
+Launch number 3
+time of sequental mult,: 2,58
+time of parallel mult,:  0,703
+
+Launch number 4
+time of sequental mult,: 2,582
+time of parallel mult,:  0,703
+
+Launch number 5
+time of sequental mult,: 2,571
+time of parallel mult,:  0,703
+
+Number of threads: 8
+Launch number 1
+time of sequental mult,: 2,575
+time of parallel mult,:  0,688
+
+Launch number 2
+time of sequental mult,: 2,594
+time of parallel mult,:  0,688
+
+Launch number 3
+time of sequental mult,: 2,58
+time of parallel mult,:  0,703
+
+Launch number 4
+time of sequental mult,: 2,578
+time of parallel mult,:  0,703
+
+Launch number 5
+time of sequental mult,: 2,577
+time of parallel mult,:  0,691
+
+Number of threads: 9
+Launch number 1
+time of sequental mult,: 2,586
+time of parallel mult,:  0,687
+
+Launch number 2
+time of sequental mult,: 2,591
+time of parallel mult,:  0,723
+
+Launch number 3
+time of sequental mult,: 2,581
+time of parallel mult,:  0,688
+
+Launch number 4
+time of sequental mult,: 2,591
+time of parallel mult,:  0,703
+
+Launch number 5
+time of sequental mult,: 2,616
+time of parallel mult,:  0,691
+
+Number of threads: 10
+Launch number 1
+time of sequental mult,: 2,581
+time of parallel mult,:  0,703
+
+Launch number 2
+time of sequental mult,: 2,593
+time of parallel mult,:  0,688
+
+Launch number 3
+time of sequental mult,: 2,586
+time of parallel mult,:  0,689
+
+Launch number 4
+time of sequental mult,: 2,579
+time of parallel mult,:  0,688
+
+Launch number 5
+time of sequental mult,: 2,585
+time of parallel mult,:  0,688
+
+Number of threads: 11
+Launch number 1
+time of sequental mult,: 2,577
+time of parallel mult,:  0,694
+
+Launch number 2
+time of sequental mult,: 2,566
+time of parallel mult,:  0,687
+
+Launch number 3
+time of sequental mult,: 2,593
+time of parallel mult,:  0,703
+
+Launch number 4
+time of sequental mult,: 2,581
+time of parallel mult,:  0,71
+
+Launch number 5
+time of sequental mult,: 2,583
+time of parallel mult,:  0,693
+
+Number of threads: 12
+Launch number 1
+time of sequental mult,: 2,575
+time of parallel mult,:  0,687
+
+Launch number 2
+time of sequental mult,: 2,574
+time of parallel mult,:  0,711
+
+Launch number 3
+time of sequental mult,: 2,58
+time of parallel mult,:  0,688
+
+Launch number 4
+time of sequental mult,: 2,581
+time of parallel mult,:  0,688
+
+Launch number 5
+time of sequental mult,: 2,573
+time of parallel mult,:  0,696
+
+Number of threads: 13
+Launch number 1
+time of sequental mult,: 2,592
+time of parallel mult,:  0,688
+
+Launch number 2
+time of sequental mult,: 2,57
+time of parallel mult,:  0,703
+
+Launch number 3
+time of sequental mult,: 2,572
+time of parallel mult,:  0,694
+
+Launch number 4
+time of sequental mult,: 2,587
+time of parallel mult,:  0,688
+
+Launch number 5
+time of sequental mult,: 2,587
+time of parallel mult,:  0,703
+
+Number of threads: 14
+Launch number 1
+time of sequental mult,: 2,576
+time of parallel mult,:  0,694
+
+Launch number 2
+time of sequental mult,: 2,573
+time of parallel mult,:  0,687
+
+Launch number 3
+time of sequental mult,: 2,578
+time of parallel mult,:  0,703
+
+Launch number 4
+time of sequental mult,: 2,587
+time of parallel mult,:  0,678
+
+Launch number 5
+time of sequental mult,: 2,565
+time of parallel mult,:  0,688
+
+Number of threads: 15
+Launch number 1
+time of sequental mult,: 2,577
+time of parallel mult,:  0,687
+
+Launch number 2
+time of sequental mult,: 2,581
+time of parallel mult,:  0,678
+
+Launch number 3
+time of sequental mult,: 2,837
+time of parallel mult,:  0,694
+
+Launch number 4
+time of sequental mult,: 2,592
+time of parallel mult,:  0,704
+
+Launch number 5
+time of sequental mult,: 2,588
+time of parallel mult,:  0,719
+
+Number of threads: 16
+Launch number 1
+time of sequental mult,: 2,593
+time of parallel mult,:  0,693
+
+Launch number 2
+time of sequental mult,: 2,59
+time of parallel mult,:  0,687
+
+Launch number 3
+time of sequental mult,: 2,591
+time of parallel mult,:  0,687
+
+Launch number 4
+time of sequental mult,: 2,604
+time of parallel mult,:  0,707
+
+Launch number 5
+time of sequental mult,: 2,597
+time of parallel mult,:  0,688
+
+Number of threads: 17
+Launch number 1
+time of sequental mult,: 2,567
+time of parallel mult,:  0,687
+
+Launch number 2
+time of sequental mult,: 2,575
+time of parallel mult,:  0,687
+
+Launch number 3
+time of sequental mult,: 2,572
+time of parallel mult,:  0,687
+
+Launch number 4
+time of sequental mult,: 2,585
+time of parallel mult,:  0,679
+
+Launch number 5
+time of sequental mult,: 2,562
+time of parallel mult,:  0,693
+
+Number of threads: 18
+Launch number 1
+time of sequental mult,: 2,588
+time of parallel mult,:  0,688
+
+Launch number 2
+time of sequental mult,: 2,578
+time of parallel mult,:  0,687
+
+Launch number 3
+time of sequental mult,: 2,582
+time of parallel mult,:  0,707
+
+Launch number 4
+time of sequental mult,: 2,57
+time of parallel mult,:  0,687
+
+Launch number 5
+time of sequental mult,: 2,569
+time of parallel mult,:  0,704
+
+Number of threads: 19
+Launch number 1
+time of sequental mult,: 2,582
+time of parallel mult,:  0,694
+
+Launch number 2
+time of sequental mult,: 2,587
+time of parallel mult,:  0,688
+
+Launch number 3
+time of sequental mult,: 2,581
+time of parallel mult,:  0,687
+
+Launch number 4
+time of sequental mult,: 2,583
+time of parallel mult,:  0,703
+
+Launch number 5
+time of sequental mult,: 2,574
+time of parallel mult,:  0,688
+
+Number of threads: 20
+Launch number 1
+time of sequental mult,: 2,567
+time of parallel mult,:  0,688
+
+Launch number 2
+time of sequental mult,: 2,594
+time of parallel mult,:  0,688
+
+Launch number 3
+time of sequental mult,: 2,584
+time of parallel mult,:  0,687
+
+Launch number 4
+time of sequental mult,: 2,587
+time of parallel mult,:  0,703
+
+Launch number 5
+time of sequental mult,: 2,637
+time of parallel mult,:  0,717
+-
+####################Number_of_collapse = 2
+--------------------
+Size of matrix: 300x300
+Number of threads: 1
+Launch number 1
+time of sequental mult,: 0,205
+time of parallel mult,:  0,199
+
+Launch number 2
+time of sequental mult,: 0,19
+time of parallel mult,:  0,221
+
+Launch number 3
+time of sequental mult,: 0,204
+time of parallel mult,:  0,197
+
+Launch number 4
+time of sequental mult,: 0,2
+time of parallel mult,:  0,207
+
+Launch number 5
+time of sequental mult,: 0,197
+time of parallel mult,:  0,209
+
+Number of threads: 2
+Launch number 1
+time of sequental mult,: 0,194
+time of parallel mult,:  0,11
+
+Launch number 2
+time of sequental mult,: 0,198
+time of parallel mult,:  0,11
+
+Launch number 3
+time of sequental mult,: 0,204
+time of parallel mult,:  0,109
+
+Launch number 4
+time of sequental mult,: 0,19
+time of parallel mult,:  0,0940001
+
+Launch number 5
+time of sequental mult,: 0,194
+time of parallel mult,:  0,11
+
+Number of threads: 3
+Launch number 1
+time of sequental mult,: 0,202
+time of parallel mult,:  0,0779998
+
+Launch number 2
+time of sequental mult,: 0,2
+time of parallel mult,:  0,0799999
+
+Launch number 3
+time of sequental mult,: 0,2
+time of parallel mult,:  0,0780001
+
+Launch number 4
+time of sequental mult,: 0,194
+time of parallel mult,:  0,0679998
+
+Launch number 5
+time of sequental mult,: 0,19
+time of parallel mult,:  0,063
+
+Number of threads: 4
+Launch number 1
+time of sequental mult,: 0,195
+time of parallel mult,:  0,062
+
+Launch number 2
+time of sequental mult,: 0,194
+time of parallel mult,:  0,046
+
+Launch number 3
+time of sequental mult,: 0,188
+time of parallel mult,:  0,0469999
+
+Launch number 4
+time of sequental mult,: 0,192
+time of parallel mult,:  0,0469999
+
+Launch number 5
+time of sequental mult,: 0,194
+time of parallel mult,:  0,069
+
+Number of threads: 5
+Launch number 1
+time of sequental mult,: 0,198
+time of parallel mult,:  0,0780001
+
+Launch number 2
+time of sequental mult,: 0,195
+time of parallel mult,:  0,079
+
+Launch number 3
+time of sequental mult,: 0,197
+time of parallel mult,:  0,072
+
+Launch number 4
+time of sequental mult,: 0,19
+time of parallel mult,:  0,0780001
+
+Launch number 5
+time of sequental mult,: 0,196
+time of parallel mult,:  0,062
+
+Number of threads: 6
+Launch number 1
+time of sequental mult,: 0,191
+time of parallel mult,:  0,072
+
+Launch number 2
+time of sequental mult,: 0,202
+time of parallel mult,:  0,0779998
+
+Launch number 3
+time of sequental mult,: 0,193
+time of parallel mult,:  0,062
+
+Launch number 4
+time of sequental mult,: 0,207
+time of parallel mult,:  0,0619998
+
+Launch number 5
+time of sequental mult,: 0,193
+time of parallel mult,:  0,0580001
+
+Number of threads: 7
+Launch number 1
+time of sequental mult,: 0,197
+time of parallel mult,:  0,063
+
+Launch number 2
+time of sequental mult,: 0,191
+time of parallel mult,:  0,0470002
+
+Launch number 3
+time of sequental mult,: 0,202
+time of parallel mult,:  0,063
+
+Launch number 4
+time of sequental mult,: 0,189
+time of parallel mult,:  0,052
+
+Launch number 5
+time of sequental mult,: 0,199
+time of parallel mult,:  0,063
+
+Number of threads: 8
+Launch number 1
+time of sequental mult,: 0,193
+time of parallel mult,:  0,0470002
+
+Launch number 2
+time of sequental mult,: 0,206
+time of parallel mult,:  0,0579998
+
+Launch number 3
+time of sequental mult,: 0,193
+time of parallel mult,:  0,0469999
+
+Launch number 4
+time of sequental mult,: 0,198
+time of parallel mult,:  0,062
+
+Launch number 5
+time of sequental mult,: 0,192
+time of parallel mult,:  0,062
+
+Number of threads: 9
+Launch number 1
+time of sequental mult,: 0,199
+time of parallel mult,:  0,0780001
+
+Launch number 2
+time of sequental mult,: 0,193
+time of parallel mult,:  0,063
+
+Launch number 3
+time of sequental mult,: 0,202
+time of parallel mult,:  0,0630002
+
+Launch number 4
+time of sequental mult,: 0,204
+time of parallel mult,:  0,062
+
+Launch number 5
+time of sequental mult,: 0,203
+time of parallel mult,:  0,063
+
+Number of threads: 10
+Launch number 1
+time of sequental mult,: 0,193
+time of parallel mult,:  0,063
+
+Launch number 2
+time of sequental mult,: 0,202
+time of parallel mult,:  0,0619998
+
+Launch number 3
+time of sequental mult,: 0,206
+time of parallel mult,:  0,0619998
+
+Launch number 4
+time of sequental mult,: 0,204
+time of parallel mult,:  0,063
+
+Launch number 5
+time of sequental mult,: 0,203
+time of parallel mult,:  0,063
+
+Number of threads: 11
+Launch number 1
+time of sequental mult,: 0,2
+time of parallel mult,:  0,0680001
+
+Launch number 2
+time of sequental mult,: 0,195
+time of parallel mult,:  0,063
+
+Launch number 3
+time of sequental mult,: 0,192
+time of parallel mult,:  0,0469999
+
+Launch number 4
+time of sequental mult,: 0,204
+time of parallel mult,:  0,062
+
+Launch number 5
+time of sequental mult,: 0,216
+time of parallel mult,:  0,063
+
+Number of threads: 12
+Launch number 1
+time of sequental mult,: 0,205
+time of parallel mult,:  0,0469999
+
+Launch number 2
+time of sequental mult,: 0,209
+time of parallel mult,:  0,0630002
+
+Launch number 3
+time of sequental mult,: 0,189
+time of parallel mult,:  0,0469999
+
+Launch number 4
+time of sequental mult,: 0,188
+time of parallel mult,:  0,0539999
+
+Launch number 5
+time of sequental mult,: 0,194
+time of parallel mult,:  0,0469999
+
+Number of threads: 13
+Launch number 1
+time of sequental mult,: 0,204
+time of parallel mult,:  0,063
+
+Launch number 2
+time of sequental mult,: 0,201
+time of parallel mult,:  0,062
+
+Launch number 3
+time of sequental mult,: 0,197
+time of parallel mult,:  0,079
+
+Launch number 4
+time of sequental mult,: 0,192
+time of parallel mult,:  0,079
+
+Launch number 5
+time of sequental mult,: 0,192
+time of parallel mult,:  0,063
+
+Number of threads: 14
+Launch number 1
+time of sequental mult,: 0,201
+time of parallel mult,:  0,062
+
+Launch number 2
+time of sequental mult,: 0,188
+time of parallel mult,:  0,0639999
+
+Launch number 3
+time of sequental mult,: 0,193
+time of parallel mult,:  0,062
+
+Launch number 4
+time of sequental mult,: 0,192
+time of parallel mult,:  0,0469999
+
+Launch number 5
+time of sequental mult,: 0,193
+time of parallel mult,:  0,082
+
+Number of threads: 15
+Launch number 1
+time of sequental mult,: 0,195
+time of parallel mult,:  0,063
+
+Launch number 2
+time of sequental mult,: 0,199
+time of parallel mult,:  0,063
+
+Launch number 3
+time of sequental mult,: 0,193
+time of parallel mult,:  0,0749998
+
+Launch number 4
+time of sequental mult,: 0,193
+time of parallel mult,:  0,063
+
+Launch number 5
+time of sequental mult,: 0,199
+time of parallel mult,:  0,063
+
+Number of threads: 16
+Launch number 1
+time of sequental mult,: 0,196
+time of parallel mult,:  0,062
+
+Launch number 2
+time of sequental mult,: 0,197
+time of parallel mult,:  0,063
+
+Launch number 3
+time of sequental mult,: 0,196
+time of parallel mult,:  0,063
+
+Launch number 4
+time of sequental mult,: 0,191
+time of parallel mult,:  0,062
+
+Launch number 5
+time of sequental mult,: 0,205
+time of parallel mult,:  0,0469999
+
+Number of threads: 17
+Launch number 1
+time of sequental mult,: 0,188
+time of parallel mult,:  0,0640001
+
+Launch number 2
+time of sequental mult,: 0,203
+time of parallel mult,:  0,062
+
+Launch number 3
+time of sequental mult,: 0,199
+time of parallel mult,:  0,062
+
+Launch number 4
+time of sequental mult,: 0,195
+time of parallel mult,:  0,063
+
+Launch number 5
+time of sequental mult,: 0,189
+time of parallel mult,:  0,0630002
+
+Number of threads: 18
+Launch number 1
+time of sequental mult,: 0,193
+time of parallel mult,:  0,0669999
+
+Launch number 2
+time of sequental mult,: 0,191
+time of parallel mult,:  0,0469999
+
+Launch number 3
+time of sequental mult,: 0,197
+time of parallel mult,:  0,063
+
+Launch number 4
+time of sequental mult,: 0,205
+time of parallel mult,:  0,0449998
+
+Launch number 5
+time of sequental mult,: 0,199
+time of parallel mult,:  0,062
+
+Number of threads: 19
+Launch number 1
+time of sequental mult,: 0,2
+time of parallel mult,:  0,062
+
+Launch number 2
+time of sequental mult,: 0,194
+time of parallel mult,:  0,059
+
+Launch number 3
+time of sequental mult,: 0,195
+time of parallel mult,:  0,062
+
+Launch number 4
+time of sequental mult,: 0,198
+time of parallel mult,:  0,063
+
+Launch number 5
+time of sequental mult,: 0,194
+time of parallel mult,:  0,063
+
+Number of threads: 20
+Launch number 1
+time of sequental mult,: 0,203
+time of parallel mult,:  0,062
+
+Launch number 2
+time of sequental mult,: 0,196
+time of parallel mult,:  0,063
+
+Launch number 3
+time of sequental mult,: 0,189
+time of parallel mult,:  0,0469999
+
+Launch number 4
+time of sequental mult,: 0,202
+time of parallel mult,:  0,063
+
+Launch number 5
+time of sequental mult,: 0,201
+time of parallel mult,:  0,0650001
+
+--------------------
+Size of matrix: 400x400
+Number of threads: 1
+Launch number 1
+time of sequental mult,: 0,471
+time of parallel mult,:  0,502
+
+Launch number 2
+time of sequental mult,: 0,477
+time of parallel mult,:  0,518
+
+Launch number 3
+time of sequental mult,: 0,478
+time of parallel mult,:  0,502
+
+Launch number 4
+time of sequental mult,: 0,469
+time of parallel mult,:  0,518
+
+Launch number 5
+time of sequental mult,: 0,481
+time of parallel mult,:  0,503
+
+Number of threads: 2
+Launch number 1
+time of sequental mult,: 0,473
+time of parallel mult,:  0,265
+
+Launch number 2
+time of sequental mult,: 0,48
+time of parallel mult,:  0,261
+
+Launch number 3
+time of sequental mult,: 0,464
+time of parallel mult,:  0,251
+
+Launch number 4
+time of sequental mult,: 0,483
+time of parallel mult,:  0,252
+
+Launch number 5
+time of sequental mult,: 0,47
+time of parallel mult,:  0,256
+
+Number of threads: 3
+Launch number 1
+time of sequental mult,: 0,477
+time of parallel mult,:  0,18
+
+Launch number 2
+time of sequental mult,: 0,473
+time of parallel mult,:  0,173
+
+Launch number 3
+time of sequental mult,: 0,47
+time of parallel mult,:  0,156
+
+Launch number 4
+time of sequental mult,: 0,484
+time of parallel mult,:  0,166
+
+Launch number 5
+time of sequental mult,: 0,477
+time of parallel mult,:  0,172
+
+Number of threads: 4
+Launch number 1
+time of sequental mult,: 0,48
+time of parallel mult,:  0,125
+
+Launch number 2
+time of sequental mult,: 0,477
+time of parallel mult,:  0,125
+
+Launch number 3
+time of sequental mult,: 0,468
+time of parallel mult,:  0,125
+
+Launch number 4
+time of sequental mult,: 0,487
+time of parallel mult,:  0,125
+
+Launch number 5
+time of sequental mult,: 0,482
+time of parallel mult,:  0,132
+
+Number of threads: 5
+Launch number 1
+time of sequental mult,: 0,482
+time of parallel mult,:  0,157
+
+Launch number 2
+time of sequental mult,: 0,475
+time of parallel mult,:  0,161
+
+Launch number 3
+time of sequental mult,: 0,472
+time of parallel mult,:  0,141
+
+Launch number 4
+time of sequental mult,: 0,474
+time of parallel mult,:  0,156
+
+Launch number 5
+time of sequental mult,: 0,475
+time of parallel mult,:  0,141
+
+Number of threads: 6
+Launch number 1
+time of sequental mult,: 0,477
+time of parallel mult,:  0,145
+
+Launch number 2
+time of sequental mult,: 0,475
+time of parallel mult,:  0,14
+
+Launch number 3
+time of sequental mult,: 0,475
+time of parallel mult,:  0,141
+
+Launch number 4
+time of sequental mult,: 0,484
+time of parallel mult,:  0,14
+
+Launch number 5
+time of sequental mult,: 0,486
+time of parallel mult,:  0,131
+
+Number of threads: 7
+Launch number 1
+time of sequental mult,: 0,476
+time of parallel mult,:  0,14
+
+Launch number 2
+time of sequental mult,: 0,476
+time of parallel mult,:  0,14
+
+Launch number 3
+time of sequental mult,: 0,473
+time of parallel mult,:  0,141
+
+Launch number 4
+time of sequental mult,: 0,483
+time of parallel mult,:  0,141
+
+Launch number 5
+time of sequental mult,: 0,475
+time of parallel mult,:  0,131
+
+Number of threads: 8
+Launch number 1
+time of sequental mult,: 0,466
+time of parallel mult,:  0,126
+
+Launch number 2
+time of sequental mult,: 0,471
+time of parallel mult,:  0,133
+
+Launch number 3
+time of sequental mult,: 0,476
+time of parallel mult,:  0,125
+
+Launch number 4
+time of sequental mult,: 0,48
+time of parallel mult,:  0,135
+
+Launch number 5
+time of sequental mult,: 0,484
+time of parallel mult,:  0,133
+
+Number of threads: 9
+Launch number 1
+time of sequental mult,: 0,483
+time of parallel mult,:  0,137
+
+Launch number 2
+time of sequental mult,: 0,467
+time of parallel mult,:  0,141
+
+Launch number 3
+time of sequental mult,: 0,485
+time of parallel mult,:  0,127
+
+Launch number 4
+time of sequental mult,: 0,476
+time of parallel mult,:  0,14
+
+Launch number 5
+time of sequental mult,: 0,475
+time of parallel mult,:  0,141
+
+Number of threads: 10
+Launch number 1
+time of sequental mult,: 0,478
+time of parallel mult,:  0,142
+
+Launch number 2
+time of sequental mult,: 0,487
+time of parallel mult,:  0,133
+
+Launch number 3
+time of sequental mult,: 0,47
+time of parallel mult,:  0,125
+
+Launch number 4
+time of sequental mult,: 0,476
+time of parallel mult,:  0,134
+
+Launch number 5
+time of sequental mult,: 0,477
+time of parallel mult,:  0,141
+
+Number of threads: 11
+Launch number 1
+time of sequental mult,: 0,471
+time of parallel mult,:  0,129
+
+Launch number 2
+time of sequental mult,: 0,469
+time of parallel mult,:  0,14
+
+Launch number 3
+time of sequental mult,: 0,482
+time of parallel mult,:  0,141
+
+Launch number 4
+time of sequental mult,: 0,483
+time of parallel mult,:  0,125
+
+Launch number 5
+time of sequental mult,: 0,47
+time of parallel mult,:  0,129
+
+Number of threads: 12
+Launch number 1
+time of sequental mult,: 0,468
+time of parallel mult,:  0,135
+
+Launch number 2
+time of sequental mult,: 0,471
+time of parallel mult,:  0,125
+
+Launch number 3
+time of sequental mult,: 0,47
+time of parallel mult,:  0,125
+
+Launch number 4
+time of sequental mult,: 0,473
+time of parallel mult,:  0,148
+
+Launch number 5
+time of sequental mult,: 0,476
+time of parallel mult,:  0,125
+
+Number of threads: 13
+Launch number 1
+time of sequental mult,: 0,483
+time of parallel mult,:  0,136
+
+Launch number 2
+time of sequental mult,: 0,478
+time of parallel mult,:  0,147
+
+Launch number 3
+time of sequental mult,: 0,48
+time of parallel mult,:  0,14
+
+Launch number 4
+time of sequental mult,: 0,477
+time of parallel mult,:  0,145
+
+Launch number 5
+time of sequental mult,: 0,472
+time of parallel mult,:  0,144
+
+Number of threads: 14
+Launch number 1
+time of sequental mult,: 0,478
+time of parallel mult,:  0,128
+
+Launch number 2
+time of sequental mult,: 0,473
+time of parallel mult,:  0,142
+
+Launch number 3
+time of sequental mult,: 0,475
+time of parallel mult,:  0,141
+
+Launch number 4
+time of sequental mult,: 0,471
+time of parallel mult,:  0,146
+
+Launch number 5
+time of sequental mult,: 0,481
+time of parallel mult,:  0,141
+
+Number of threads: 15
+Launch number 1
+time of sequental mult,: 0,477
+time of parallel mult,:  0,141
+
+Launch number 2
+time of sequental mult,: 0,477
+time of parallel mult,:  0,143
+
+Launch number 3
+time of sequental mult,: 0,477
+time of parallel mult,:  0,145
+
+Launch number 4
+time of sequental mult,: 0,472
+time of parallel mult,:  0,125
+
+Launch number 5
+time of sequental mult,: 0,48
+time of parallel mult,:  0,141
+
+Number of threads: 16
+Launch number 1
+time of sequental mult,: 0,474
+time of parallel mult,:  0,125
+
+Launch number 2
+time of sequental mult,: 0,479
+time of parallel mult,:  0,139
+
+Launch number 3
+time of sequental mult,: 0,483
+time of parallel mult,:  0,125
+
+Launch number 4
+time of sequental mult,: 0,476
+time of parallel mult,:  0,141
+
+Launch number 5
+time of sequental mult,: 0,471
+time of parallel mult,:  0,125
+
+Number of threads: 17
+Launch number 1
+time of sequental mult,: 0,477
+time of parallel mult,:  0,155
+
+Launch number 2
+time of sequental mult,: 0,476
+time of parallel mult,:  0,16
+
+Launch number 3
+time of sequental mult,: 0,475
+time of parallel mult,:  0,142
+
+Launch number 4
+time of sequental mult,: 0,471
+time of parallel mult,:  0,141
+
+Launch number 5
+time of sequental mult,: 0,478
+time of parallel mult,:  0,156
+
+Number of threads: 18
+Launch number 1
+time of sequental mult,: 0,479
+time of parallel mult,:  0,142
+
+Launch number 2
+time of sequental mult,: 0,484
+time of parallel mult,:  0,142
+
+Launch number 3
+time of sequental mult,: 0,478
+time of parallel mult,:  0,144
+
+Launch number 4
+time of sequental mult,: 0,473
+time of parallel mult,:  0,147
+
+Launch number 5
+time of sequental mult,: 0,483
+time of parallel mult,:  0,141
+
+Number of threads: 19
+Launch number 1
+time of sequental mult,: 0,479
+time of parallel mult,:  0,141
+
+Launch number 2
+time of sequental mult,: 0,475
+time of parallel mult,:  0,141
+
+Launch number 3
+time of sequental mult,: 0,471
+time of parallel mult,:  0,13
+
+Launch number 4
+time of sequental mult,: 0,485
+time of parallel mult,:  0,144
+
+Launch number 5
+time of sequental mult,: 0,478
+time of parallel mult,:  0,128
+
+Number of threads: 20
+Launch number 1
+time of sequental mult,: 0,48
+time of parallel mult,:  0,125
+
+Launch number 2
+time of sequental mult,: 0,475
+time of parallel mult,:  0,132
+
+Launch number 3
+time of sequental mult,: 0,497
+time of parallel mult,:  0,115
+
+Launch number 4
+time of sequental mult,: 0,478
+time of parallel mult,:  0,143
+
+Launch number 5
+time of sequental mult,: 0,478
+time of parallel mult,:  0,125
+
+--------------------
+Size of matrix: 500x500
+Number of threads: 1
+Launch number 1
+time of sequental mult,: 0,953
+time of parallel mult,:  0,985
+
+Launch number 2
+time of sequental mult,: 0,927
+time of parallel mult,:  0,987
+
+Launch number 3
+time of sequental mult,: 0,936
+time of parallel mult,:  0,983
+
+Launch number 4
+time of sequental mult,: 0,937
+time of parallel mult,:  1,004
+
+Launch number 5
+time of sequental mult,: 0,953
+time of parallel mult,:  0,985
+
+Number of threads: 2
+Launch number 1
+time of sequental mult,: 0,932
+time of parallel mult,:  0,492
+
+Launch number 2
+time of sequental mult,: 0,935
+time of parallel mult,:  0,523
+
+Launch number 3
+time of sequental mult,: 0,925
+time of parallel mult,:  0,504
+
+Launch number 4
+time of sequental mult,: 0,935
+time of parallel mult,:  0,497
+
+Launch number 5
+time of sequental mult,: 0,925
+time of parallel mult,:  0,502
+
+Number of threads: 3
+Launch number 1
+time of sequental mult,: 0,93
+time of parallel mult,:  0,343
+
+Launch number 2
+time of sequental mult,: 0,934
+time of parallel mult,:  0,33
+
+Launch number 3
+time of sequental mult,: 0,942
+time of parallel mult,:  0,344
+
+Launch number 4
+time of sequental mult,: 0,939
+time of parallel mult,:  0,338
+
+Launch number 5
+time of sequental mult,: 0,956
+time of parallel mult,:  0,345
+
+Number of threads: 4
+Launch number 1
+time of sequental mult,: 0,929
+time of parallel mult,:  0,239
+
+Launch number 2
+time of sequental mult,: 0,942
+time of parallel mult,:  0,266
+
+Launch number 3
+time of sequental mult,: 0,947
+time of parallel mult,:  0,245
+
+Launch number 4
+time of sequental mult,: 0,934
+time of parallel mult,:  0,267
+
+Launch number 5
+time of sequental mult,: 0,946
+time of parallel mult,:  0,247
+
+Number of threads: 5
+Launch number 1
+time of sequental mult,: 0,937
+time of parallel mult,:  0,256
+
+Launch number 2
+time of sequental mult,: 0,95
+time of parallel mult,:  0,259
+
+Launch number 3
+time of sequental mult,: 0,936
+time of parallel mult,:  0,29
+
+Launch number 4
+time of sequental mult,: 0,933
+time of parallel mult,:  0,282
+
+Launch number 5
+time of sequental mult,: 0,936
+time of parallel mult,:  0,267
+
+Number of threads: 6
+Launch number 1
+time of sequental mult,: 0,927
+time of parallel mult,:  0,265
+
+Launch number 2
+time of sequental mult,: 0,938
+time of parallel mult,:  0,27
+
+Launch number 3
+time of sequental mult,: 0,942
+time of parallel mult,:  0,267
+
+Launch number 4
+time of sequental mult,: 0,932
+time of parallel mult,:  0,25
+
+Launch number 5
+time of sequental mult,: 0,93
+time of parallel mult,:  0,264
+
+Number of threads: 7
+Launch number 1
+time of sequental mult,: 0,938
+time of parallel mult,:  0,267
+
+Launch number 2
+time of sequental mult,: 0,934
+time of parallel mult,:  0,269
+
+Launch number 3
+time of sequental mult,: 0,937
+time of parallel mult,:  0,265
+
+Launch number 4
+time of sequental mult,: 0,952
+time of parallel mult,:  0,275
+
+Launch number 5
+time of sequental mult,: 0,939
+time of parallel mult,:  0,266
+
+Number of threads: 8
+Launch number 1
+time of sequental mult,: 0,95
+time of parallel mult,:  0,255
+
+Launch number 2
+time of sequental mult,: 0,943
+time of parallel mult,:  0,266
+
+Launch number 3
+time of sequental mult,: 0,941
+time of parallel mult,:  0,25
+
+Launch number 4
+time of sequental mult,: 0,942
+time of parallel mult,:  0,264
+
+Launch number 5
+time of sequental mult,: 0,929
+time of parallel mult,:  0,25
+
+Number of threads: 9
+Launch number 1
+time of sequental mult,: 0,932
+time of parallel mult,:  0,267
+
+Launch number 2
+time of sequental mult,: 0,946
+time of parallel mult,:  0,25
+
+Launch number 3
+time of sequental mult,: 0,945
+time of parallel mult,:  0,265
+
+Launch number 4
+time of sequental mult,: 0,929
+time of parallel mult,:  0,255
+
+Launch number 5
+time of sequental mult,: 0,936
+time of parallel mult,:  0,265
+
+Number of threads: 10
+Launch number 1
+time of sequental mult,: 0,93
+time of parallel mult,:  0,255
+
+Launch number 2
+time of sequental mult,: 0,939
+time of parallel mult,:  0,266
+
+Launch number 3
+time of sequental mult,: 0,927
+time of parallel mult,:  0,25
+
+Launch number 4
+time of sequental mult,: 0,923
+time of parallel mult,:  0,266
+
+Launch number 5
+time of sequental mult,: 0,935
+time of parallel mult,:  0,266
+
+Number of threads: 11
+Launch number 1
+time of sequental mult,: 0,933
+time of parallel mult,:  0,268
+
+Launch number 2
+time of sequental mult,: 0,942
+time of parallel mult,:  0,267
+
+Launch number 3
+time of sequental mult,: 0,936
+time of parallel mult,:  0,261
+
+Launch number 4
+time of sequental mult,: 0,946
+time of parallel mult,:  0,247
+
+Launch number 5
+time of sequental mult,: 0,935
+time of parallel mult,:  0,255
+
+Number of threads: 12
+Launch number 1
+time of sequental mult,: 0,934
+time of parallel mult,:  0,257
+
+Launch number 2
+time of sequental mult,: 0,93
+time of parallel mult,:  0,266
+
+Launch number 3
+time of sequental mult,: 0,929
+time of parallel mult,:  0,251
+
+Launch number 4
+time of sequental mult,: 0,932
+time of parallel mult,:  0,271
+
+Launch number 5
+time of sequental mult,: 0,935
+time of parallel mult,:  0,234
+
+Number of threads: 13
+Launch number 1
+time of sequental mult,: 0,934
+time of parallel mult,:  0,257
+
+Launch number 2
+time of sequental mult,: 0,933
+time of parallel mult,:  0,25
+
+Launch number 3
+time of sequental mult,: 0,929
+time of parallel mult,:  0,256
+
+Launch number 4
+time of sequental mult,: 0,945
+time of parallel mult,:  0,265
+
+Launch number 5
+time of sequental mult,: 0,942
+time of parallel mult,:  0,271
+
+Number of threads: 14
+Launch number 1
+time of sequental mult,: 0,935
+time of parallel mult,:  0,253
+
+Launch number 2
+time of sequental mult,: 0,924
+time of parallel mult,:  0,266
+
+Launch number 3
+time of sequental mult,: 0,935
+time of parallel mult,:  0,251
+
+Launch number 4
+time of sequental mult,: 0,937
+time of parallel mult,:  0,266
+
+Launch number 5
+time of sequental mult,: 0,946
+time of parallel mult,:  0,255
+
+Number of threads: 15
+Launch number 1
+time of sequental mult,: 0,943
+time of parallel mult,:  0,266
+
+Launch number 2
+time of sequental mult,: 0,928
+time of parallel mult,:  0,25
+
+Launch number 3
+time of sequental mult,: 0,937
+time of parallel mult,:  0,254
+
+Launch number 4
+time of sequental mult,: 0,944
+time of parallel mult,:  0,25
+
+Launch number 5
+time of sequental mult,: 0,926
+time of parallel mult,:  0,266
+
+Number of threads: 16
+Launch number 1
+time of sequental mult,: 0,927
+time of parallel mult,:  0,25
+
+Launch number 2
+time of sequental mult,: 0,936
+time of parallel mult,:  0,275
+
+Launch number 3
+time of sequental mult,: 0,93
+time of parallel mult,:  0,253
+
+Launch number 4
+time of sequental mult,: 0,942
+time of parallel mult,:  0,25
+
+Launch number 5
+time of sequental mult,: 0,941
+time of parallel mult,:  0,251
+
+Number of threads: 17
+Launch number 1
+time of sequental mult,: 0,937
+time of parallel mult,:  0,267
+
+Launch number 2
+time of sequental mult,: 0,933
+time of parallel mult,:  0,254
+
+Launch number 3
+time of sequental mult,: 0,937
+time of parallel mult,:  0,269
+
+Launch number 4
+time of sequental mult,: 0,939
+time of parallel mult,:  0,25
+
+Launch number 5
+time of sequental mult,: 0,945
+time of parallel mult,:  0,258
+
+Number of threads: 18
+Launch number 1
+time of sequental mult,: 0,93
+time of parallel mult,:  0,25
+
+Launch number 2
+time of sequental mult,: 0,941
+time of parallel mult,:  0,275
+
+Launch number 3
+time of sequental mult,: 0,941
+time of parallel mult,:  0,266
+
+Launch number 4
+time of sequental mult,: 0,93
+time of parallel mult,:  0,25
+
+Launch number 5
+time of sequental mult,: 0,943
+time of parallel mult,:  0,259
+
+Number of threads: 19
+Launch number 1
+time of sequental mult,: 0,947
+time of parallel mult,:  0,266
+
+Launch number 2
+time of sequental mult,: 0,94
+time of parallel mult,:  0,257
+
+Launch number 3
+time of sequental mult,: 0,929
+time of parallel mult,:  0,25
+
+Launch number 4
+time of sequental mult,: 0,936
+time of parallel mult,:  0,256
+
+Launch number 5
+time of sequental mult,: 0,929
+time of parallel mult,:  0,245
+
+Number of threads: 20
+Launch number 1
+time of sequental mult,: 0,941
+time of parallel mult,:  0,251
+
+Launch number 2
+time of sequental mult,: 0,92
+time of parallel mult,:  0,251
+
+Launch number 3
+time of sequental mult,: 0,934
+time of parallel mult,:  0,252
+
+Launch number 4
+time of sequental mult,: 0,94
+time of parallel mult,:  0,272
+
+Launch number 5
+time of sequental mult,: 0,943
+time of parallel mult,:  0,249
+
+--------------------
+Size of matrix: 600x600
+Number of threads: 1
+Launch number 1
+time of sequental mult,: 1,619
+time of parallel mult,:  1,694
+
+Launch number 2
+time of sequental mult,: 1,615
+time of parallel mult,:  1,71
+
+Launch number 3
+time of sequental mult,: 1,624
+time of parallel mult,:  1,697
+
+Launch number 4
+time of sequental mult,: 1,617
+time of parallel mult,:  1,709
+
+Launch number 5
+time of sequental mult,: 1,622
+time of parallel mult,:  1,71
+
+Number of threads: 2
+Launch number 1
+time of sequental mult,: 1,626
+time of parallel mult,:  0,853
+
+Launch number 2
+time of sequental mult,: 1,638
+time of parallel mult,:  0,863
+
+Launch number 3
+time of sequental mult,: 1,619
+time of parallel mult,:  0,863
+
+Launch number 4
+time of sequental mult,: 1,612
+time of parallel mult,:  0,864
+
+Launch number 5
+time of sequental mult,: 1,621
+time of parallel mult,:  0,849
+
+Number of threads: 3
+Launch number 1
+time of sequental mult,: 1,624
+time of parallel mult,:  0,581
+
+Launch number 2
+time of sequental mult,: 1,625
+time of parallel mult,:  0,568
+
+Launch number 3
+time of sequental mult,: 1,625
+time of parallel mult,:  0,567
+
+Launch number 4
+time of sequental mult,: 1,626
+time of parallel mult,:  0,564
+
+Launch number 5
+time of sequental mult,: 1,624
+time of parallel mult,:  0,567
+
+Number of threads: 4
+Launch number 1
+time of sequental mult,: 1,623
+time of parallel mult,:  0,438
+
+Launch number 2
+time of sequental mult,: 1,628
+time of parallel mult,:  0,424
+
+Launch number 3
+time of sequental mult,: 1,632
+time of parallel mult,:  0,435
+
+Launch number 4
+time of sequental mult,: 1,622
+time of parallel mult,:  0,422
+
+Launch number 5
+time of sequental mult,: 1,625
+time of parallel mult,:  0,438
+
+Number of threads: 5
+Launch number 1
+time of sequental mult,: 1,62
+time of parallel mult,:  0,44
+
+Launch number 2
+time of sequental mult,: 1,625
+time of parallel mult,:  0,471
+
+Launch number 3
+time of sequental mult,: 1,622
+time of parallel mult,:  0,45
+
+Launch number 4
+time of sequental mult,: 1,623
+time of parallel mult,:  0,427
+
+Launch number 5
+time of sequental mult,: 1,635
+time of parallel mult,:  0,455
+
+Number of threads: 6
+Launch number 1
+time of sequental mult,: 1,625
+time of parallel mult,:  0,472
+
+Launch number 2
+time of sequental mult,: 1,615
+time of parallel mult,:  0,458
+
+Launch number 3
+time of sequental mult,: 1,639
+time of parallel mult,:  0,453
+
+Launch number 4
+time of sequental mult,: 1,625
+time of parallel mult,:  0,448
+
+Launch number 5
+time of sequental mult,: 1,63
+time of parallel mult,:  0,447
+
+Number of threads: 7
+Launch number 1
+time of sequental mult,: 1,621
+time of parallel mult,:  0,447
+
+Launch number 2
+time of sequental mult,: 1,631
+time of parallel mult,:  0,441
+
+Launch number 3
+time of sequental mult,: 1,634
+time of parallel mult,:  0,438
+
+Launch number 4
+time of sequental mult,: 1,627
+time of parallel mult,:  0,437
+
+Launch number 5
+time of sequental mult,: 1,623
+time of parallel mult,:  0,44
+
+Number of threads: 8
+Launch number 1
+time of sequental mult,: 1,618
+time of parallel mult,:  0,434
+
+Launch number 2
+time of sequental mult,: 1,618
+time of parallel mult,:  0,421
+
+Launch number 3
+time of sequental mult,: 1,617
+time of parallel mult,:  0,442
+
+Launch number 4
+time of sequental mult,: 1,608
+time of parallel mult,:  0,441
+
+Launch number 5
+time of sequental mult,: 1,631
+time of parallel mult,:  0,43
+
+Number of threads: 9
+Launch number 1
+time of sequental mult,: 1,626
+time of parallel mult,:  0,436
+
+Launch number 2
+time of sequental mult,: 1,629
+time of parallel mult,:  0,447
+
+Launch number 3
+time of sequental mult,: 1,689
+time of parallel mult,:  0,472
+
+Launch number 4
+time of sequental mult,: 1,731
+time of parallel mult,:  0,458
+
+Launch number 5
+time of sequental mult,: 1,617
+time of parallel mult,:  0,435
+
+Number of threads: 10
+Launch number 1
+time of sequental mult,: 1,611
+time of parallel mult,:  0,446
+
+Launch number 2
+time of sequental mult,: 1,616
+time of parallel mult,:  0,437
+
+Launch number 3
+time of sequental mult,: 1,626
+time of parallel mult,:  0,433
+
+Launch number 4
+time of sequental mult,: 1,62
+time of parallel mult,:  0,431
+
+Launch number 5
+time of sequental mult,: 1,617
+time of parallel mult,:  0,434
+
+Number of threads: 11
+Launch number 1
+time of sequental mult,: 1,617
+time of parallel mult,:  0,44
+
+Launch number 2
+time of sequental mult,: 1,616
+time of parallel mult,:  0,43
+
+Launch number 3
+time of sequental mult,: 1,634
+time of parallel mult,:  0,427
+
+Launch number 4
+time of sequental mult,: 1,621
+time of parallel mult,:  0,455
+
+Launch number 5
+time of sequental mult,: 1,624
+time of parallel mult,:  0,44
+
+Number of threads: 12
+Launch number 1
+time of sequental mult,: 1,632
+time of parallel mult,:  0,441
+
+Launch number 2
+time of sequental mult,: 1,634
+time of parallel mult,:  0,427
+
+Launch number 3
+time of sequental mult,: 1,626
+time of parallel mult,:  0,445
+
+Launch number 4
+time of sequental mult,: 1,622
+time of parallel mult,:  0,423
+
+Launch number 5
+time of sequental mult,: 1,62
+time of parallel mult,:  0,44
+
+Number of threads: 13
+Launch number 1
+time of sequental mult,: 1,636
+time of parallel mult,:  0,444
+
+Launch number 2
+time of sequental mult,: 1,618
+time of parallel mult,:  0,432
+
+Launch number 3
+time of sequental mult,: 1,625
+time of parallel mult,:  0,43
+
+Launch number 4
+time of sequental mult,: 1,615
+time of parallel mult,:  0,435
+
+Launch number 5
+time of sequental mult,: 1,638
+time of parallel mult,:  0,437
+
+Number of threads: 14
+Launch number 1
+time of sequental mult,: 1,623
+time of parallel mult,:  0,446
+
+Launch number 2
+time of sequental mult,: 1,634
+time of parallel mult,:  0,424
+
+Launch number 3
+time of sequental mult,: 1,625
+time of parallel mult,:  0,424
+
+Launch number 4
+time of sequental mult,: 1,622
+time of parallel mult,:  0,431
+
+Launch number 5
+time of sequental mult,: 1,613
+time of parallel mult,:  0,43
+
+Number of threads: 15
+Launch number 1
+time of sequental mult,: 1,625
+time of parallel mult,:  0,441
+
+Launch number 2
+time of sequental mult,: 1,617
+time of parallel mult,:  0,435
+
+Launch number 3
+time of sequental mult,: 1,621
+time of parallel mult,:  0,428
+
+Launch number 4
+time of sequental mult,: 1,614
+time of parallel mult,:  0,431
+
+Launch number 5
+time of sequental mult,: 1,618
+time of parallel mult,:  0,432
+
+Number of threads: 16
+Launch number 1
+time of sequental mult,: 1,616
+time of parallel mult,:  0,438
+
+Launch number 2
+time of sequental mult,: 1,619
+time of parallel mult,:  0,432
+
+Launch number 3
+time of sequental mult,: 1,63
+time of parallel mult,:  0,44
+
+Launch number 4
+time of sequental mult,: 1,625
+time of parallel mult,:  0,438
+
+Launch number 5
+time of sequental mult,: 1,617
+time of parallel mult,:  0,437
+
+Number of threads: 17
+Launch number 1
+time of sequental mult,: 1,62
+time of parallel mult,:  0,438
+
+Launch number 2
+time of sequental mult,: 1,62
+time of parallel mult,:  0,427
+
+Launch number 3
+time of sequental mult,: 1,619
+time of parallel mult,:  0,418
+
+Launch number 4
+time of sequental mult,: 1,632
+time of parallel mult,:  0,434
+
+Launch number 5
+time of sequental mult,: 1,624
+time of parallel mult,:  0,438
+
+Number of threads: 18
+Launch number 1
+time of sequental mult,: 1,631
+time of parallel mult,:  0,442
+
+Launch number 2
+time of sequental mult,: 1,625
+time of parallel mult,:  0,438
+
+Launch number 3
+time of sequental mult,: 1,628
+time of parallel mult,:  0,441
+
+Launch number 4
+time of sequental mult,: 1,633
+time of parallel mult,:  0,441
+
+Launch number 5
+time of sequental mult,: 1,625
+time of parallel mult,:  0,442
+
+Number of threads: 19
+Launch number 1
+time of sequental mult,: 1,62
+time of parallel mult,:  0,438
+
+Launch number 2
+time of sequental mult,: 1,624
+time of parallel mult,:  0,443
+
+Launch number 3
+time of sequental mult,: 1,631
+time of parallel mult,:  0,443
+
+Launch number 4
+time of sequental mult,: 1,625
+time of parallel mult,:  0,431
+
+Launch number 5
+time of sequental mult,: 1,644
+time of parallel mult,:  0,439
+
+Number of threads: 20
+Launch number 1
+time of sequental mult,: 1,628
+time of parallel mult,:  0,427
+
+Launch number 2
+time of sequental mult,: 1,626
+time of parallel mult,:  0,438
+
+Launch number 3
+time of sequental mult,: 1,625
+time of parallel mult,:  0,441
+
+Launch number 4
+time of sequental mult,: 1,632
+time of parallel mult,:  0,435
+
+Launch number 5
+time of sequental mult,: 1,63
+time of parallel mult,:  0,434
+
+--------------------
+Size of matrix: 700x700
+Number of threads: 1
+Launch number 1
+time of sequental mult,: 2,582
+time of parallel mult,:  2,72
+
+Launch number 2
+time of sequental mult,: 2,581
+time of parallel mult,:  2,745
+
+Launch number 3
+time of sequental mult,: 2,592
+time of parallel mult,:  2,714
+
+Launch number 4
+time of sequental mult,: 2,596
+time of parallel mult,:  2,714
+
+Launch number 5
+time of sequental mult,: 2,594
+time of parallel mult,:  2,729
+
+Number of threads: 2
+Launch number 1
+time of sequental mult,: 2,588
+time of parallel mult,:  1,35
+
+Launch number 2
+time of sequental mult,: 2,589
+time of parallel mult,:  1,381
+
+Launch number 3
+time of sequental mult,: 2,588
+time of parallel mult,:  1,363
+
+Launch number 4
+time of sequental mult,: 2,592
+time of parallel mult,:  1,349
+
+Launch number 5
+time of sequental mult,: 2,592
+time of parallel mult,:  1,351
+
+Number of threads: 3
+Launch number 1
+time of sequental mult,: 2,584
+time of parallel mult,:  0,91
+
+Launch number 2
+time of sequental mult,: 2,581
+time of parallel mult,:  0,911
+
+Launch number 3
+time of sequental mult,: 2,596
+time of parallel mult,:  0,91
+
+Launch number 4
+time of sequental mult,: 2,583
+time of parallel mult,:  0,911
+
+Launch number 5
+time of sequental mult,: 2,595
+time of parallel mult,:  0,926
+
+Number of threads: 4
+Launch number 1
+time of sequental mult,: 2,573
+time of parallel mult,:  0,691
+
+Launch number 2
+time of sequental mult,: 2,588
+time of parallel mult,:  0,69
+
+Launch number 3
+time of sequental mult,: 2,576
+time of parallel mult,:  0,694
+
+Launch number 4
+time of sequental mult,: 2,584
+time of parallel mult,:  0,674
+
+Launch number 5
+time of sequental mult,: 2,577
+time of parallel mult,:  0,689
+
+Number of threads: 5
+Launch number 1
+time of sequental mult,: 2,591
+time of parallel mult,:  0,739
+
+Launch number 2
+time of sequental mult,: 2,58
+time of parallel mult,:  0,706
+
+Launch number 3
+time of sequental mult,: 2,576
+time of parallel mult,:  0,705
+
+Launch number 4
+time of sequental mult,: 2,59
+time of parallel mult,:  0,7
+
+Launch number 5
+time of sequental mult,: 2,581
+time of parallel mult,:  0,7
+
+Number of threads: 6
+Launch number 1
+time of sequental mult,: 2,589
+time of parallel mult,:  0,709
+
+Launch number 2
+time of sequental mult,: 2,584
+time of parallel mult,:  0,702
+
+Launch number 3
+time of sequental mult,: 2,594
+time of parallel mult,:  0,739
+
+Launch number 4
+time of sequental mult,: 2,578
+time of parallel mult,:  0,69
+
+Launch number 5
+time of sequental mult,: 2,58
+time of parallel mult,:  0,706
+
+Number of threads: 7
+Launch number 1
+time of sequental mult,: 2,573
+time of parallel mult,:  0,678
+
+Launch number 2
+time of sequental mult,: 2,586
+time of parallel mult,:  0,692
+
+Launch number 3
+time of sequental mult,: 2,579
+time of parallel mult,:  0,683
+
+Launch number 4
+time of sequental mult,: 2,583
+time of parallel mult,:  0,694
+
+Launch number 5
+time of sequental mult,: 2,593
+time of parallel mult,:  0,686
+
+Number of threads: 8
+Launch number 1
+time of sequental mult,: 2,578
+time of parallel mult,:  0,708
+
+Launch number 2
+time of sequental mult,: 2,58
+time of parallel mult,:  0,693
+
+Launch number 3
+time of sequental mult,: 2,587
+time of parallel mult,:  0,708
+
+Launch number 4
+time of sequental mult,: 2,589
+time of parallel mult,:  0,672
+
+Launch number 5
+time of sequental mult,: 2,604
+time of parallel mult,:  0,71
+
+Number of threads: 9
+Launch number 1
+time of sequental mult,: 2,591
+time of parallel mult,:  0,694
+
+Launch number 2
+time of sequental mult,: 2,585
+time of parallel mult,:  0,711
+
+Launch number 3
+time of sequental mult,: 2,591
+time of parallel mult,:  0,693
+
+Launch number 4
+time of sequental mult,: 2,579
+time of parallel mult,:  0,698
+
+Launch number 5
+time of sequental mult,: 2,584
+time of parallel mult,:  0,692
+
+Number of threads: 10
+Launch number 1
+time of sequental mult,: 2,589
+time of parallel mult,:  0,683
+
+Launch number 2
+time of sequental mult,: 2,594
+time of parallel mult,:  0,694
+
+Launch number 3
+time of sequental mult,: 2,585
+time of parallel mult,:  0,695
+
+Launch number 4
+time of sequental mult,: 2,584
+time of parallel mult,:  0,707
+
+Launch number 5
+time of sequental mult,: 2,601
+time of parallel mult,:  0,681
+
+Number of threads: 11
+Launch number 1
+time of sequental mult,: 2,585
+time of parallel mult,:  0,693
+
+Launch number 2
+time of sequental mult,: 2,595
+time of parallel mult,:  0,693
+
+Launch number 3
+time of sequental mult,: 2,601
+time of parallel mult,:  0,679
+
+Launch number 4
+time of sequental mult,: 2,581
+time of parallel mult,:  0,703
+
+Launch number 5
+time of sequental mult,: 2,607
+time of parallel mult,:  0,678
+
+Number of threads: 12
+Launch number 1
+time of sequental mult,: 2,585
+time of parallel mult,:  0,681
+
+Launch number 2
+time of sequental mult,: 2,589
+time of parallel mult,:  0,69
+
+Launch number 3
+time of sequental mult,: 2,6
+time of parallel mult,:  0,694
+
+Launch number 4
+time of sequental mult,: 2,588
+time of parallel mult,:  0,68
+
+Launch number 5
+time of sequental mult,: 2,618
+time of parallel mult,:  0,694
+
+Number of threads: 13
+Launch number 1
+time of sequental mult,: 2,579
+time of parallel mult,:  0,69
+
+Launch number 2
+time of sequental mult,: 2,59
+time of parallel mult,:  0,71
+
+Launch number 3
+time of sequental mult,: 2,586
+time of parallel mult,:  0,688
+
+Launch number 4
+time of sequental mult,: 2,588
+time of parallel mult,:  0,697
+
+Launch number 5
+time of sequental mult,: 2,599
+time of parallel mult,:  0,694
+
+Number of threads: 14
+Launch number 1
+time of sequental mult,: 2,58
+time of parallel mult,:  0,667
+
+Launch number 2
+time of sequental mult,: 2,583
+time of parallel mult,:  0,68
+
+Launch number 3
+time of sequental mult,: 2,583
+time of parallel mult,:  0,699
+
+Launch number 4
+time of sequental mult,: 2,584
+time of parallel mult,:  0,681
+
+Launch number 5
+time of sequental mult,: 2,583
+time of parallel mult,:  0,696
+
+Number of threads: 15
+Launch number 1
+time of sequental mult,: 2,596
+time of parallel mult,:  0,693
+
+Launch number 2
+time of sequental mult,: 2,588
+time of parallel mult,:  0,681
+
+Launch number 3
+time of sequental mult,: 2,586
+time of parallel mult,:  0,69
+
+Launch number 4
+time of sequental mult,: 2,583
+time of parallel mult,:  0,675
+
+Launch number 5
+time of sequental mult,: 2,594
+time of parallel mult,:  0,68
+
+Number of threads: 16
+Launch number 1
+time of sequental mult,: 2,607
+time of parallel mult,:  0,668
+
+Launch number 2
+time of sequental mult,: 2,582
+time of parallel mult,:  0,671
+
+Launch number 3
+time of sequental mult,: 2,588
+time of parallel mult,:  0,698
+
+Launch number 4
+time of sequental mult,: 2,593
+time of parallel mult,:  0,689
+
+Launch number 5
+time of sequental mult,: 2,592
+time of parallel mult,:  0,681
+
+Number of threads: 17
+Launch number 1
+time of sequental mult,: 2,586
+time of parallel mult,:  0,683
+
+Launch number 2
+time of sequental mult,: 2,575
+time of parallel mult,:  0,692
+
+Launch number 3
+time of sequental mult,: 2,588
+time of parallel mult,:  0,681
+
+Launch number 4
+time of sequental mult,: 2,586
+time of parallel mult,:  0,682
+
+Launch number 5
+time of sequental mult,: 2,584
+time of parallel mult,:  0,696
+
+Number of threads: 18
+Launch number 1
+time of sequental mult,: 2,59
+time of parallel mult,:  0,682
+
+Launch number 2
+time of sequental mult,: 2,596
+time of parallel mult,:  0,687
+
+Launch number 3
+time of sequental mult,: 2,598
+time of parallel mult,:  0,688
+
+Launch number 4
+time of sequental mult,: 2,592
+time of parallel mult,:  0,683
+
+Launch number 5
+time of sequental mult,: 2,593
+time of parallel mult,:  0,697
+
+Number of threads: 19
+Launch number 1
+time of sequental mult,: 2,598
+time of parallel mult,:  0,708
+
+Launch number 2
+time of sequental mult,: 2,599
+time of parallel mult,:  0,683
+
+Launch number 3
+time of sequental mult,: 2,604
+time of parallel mult,:  0,681
+
+Launch number 4
+time of sequental mult,: 2,588
+time of parallel mult,:  0,686
+
+Launch number 5
+time of sequental mult,: 2,594
+time of parallel mult,:  0,69
+
+Number of threads: 20
+Launch number 1
+time of sequental mult,: 2,589
+time of parallel mult,:  0,681
+
+Launch number 2
+time of sequental mult,: 2,582
+time of parallel mult,:  0,684
+
+Launch number 3
+time of sequental mult,: 2,592
+time of parallel mult,:  0,694
+
+Launch number 4
+time of sequental mult,: 2,598
+time of parallel mult,:  0,684
+
+Launch number 5
+time of sequental mult,: 2,679
+time of parallel mult,:  0,736
+
+########################################Number_of_collapse = 3
+
+--------------------
+Size of matrix: 300x300
+Number of threads: 1
+Launch number 1
+time of sequental mult,: 0,198
+time of parallel mult,:  0,222
+
+Launch number 2
+time of sequental mult,: 0,191
+time of parallel mult,:  0,208
+
+Launch number 3
+time of sequental mult,: 0,202
+time of parallel mult,:  0,221
+
+Launch number 4
+time of sequental mult,: 0,193
+time of parallel mult,:  0,217
+
+Launch number 5
+time of sequental mult,: 0,192
+time of parallel mult,:  0,204
+
+Number of threads: 2
+Launch number 1
+time of sequental mult,: 0,2
+time of parallel mult,:  0,115
+
+Launch number 2
+time of sequental mult,: 0,205
+time of parallel mult,:  0,109
+
+Launch number 3
+time of sequental mult,: 0,194
+time of parallel mult,:  0,123
+
+Launch number 4
+time of sequental mult,: 0,191
+time of parallel mult,:  0,109
+
+Launch number 5
+time of sequental mult,: 0,195
+time of parallel mult,:  0,111
+
+Number of threads: 3
+Launch number 1
+time of sequental mult,: 0,209
+time of parallel mult,:  0,062
+
+Launch number 2
+time of sequental mult,: 0,196
+time of parallel mult,:  0,0780001
+
+Launch number 3
+time of sequental mult,: 0,19
+time of parallel mult,:  0,062
+
+Launch number 4
+time of sequental mult,: 0,201
+time of parallel mult,:  0,0780001
+
+Launch number 5
+time of sequental mult,: 0,204
+time of parallel mult,:  0,0780001
+
+Number of threads: 4
+Launch number 1
+time of sequental mult,: 0,201
+time of parallel mult,:  0,0469999
+
+Launch number 2
+time of sequental mult,: 0,196
+time of parallel mult,:  0,063
+
+Launch number 3
+time of sequental mult,: 0,202
+time of parallel mult,:  0,063
+
+Launch number 4
+time of sequental mult,: 0,189
+time of parallel mult,:  0,0470002
+
+Launch number 5
+time of sequental mult,: 0,197
+time of parallel mult,:  0,0680001
+
+Number of threads: 5
+Launch number 1
+time of sequental mult,: 0,189
+time of parallel mult,:  0,062
+
+Launch number 2
+time of sequental mult,: 0,192
+time of parallel mult,:  0,0780001
+
+Launch number 3
+time of sequental mult,: 0,195
+time of parallel mult,:  0,0899999
+
+Launch number 4
+time of sequental mult,: 0,206
+time of parallel mult,:  0,063
+
+Launch number 5
+time of sequental mult,: 0,196
+time of parallel mult,:  0,0670002
+
+Number of threads: 6
+Launch number 1
+time of sequental mult,: 0,204
+time of parallel mult,:  0,0770001
+
+Launch number 2
+time of sequental mult,: 0,204
+time of parallel mult,:  0,0780001
+
+Launch number 3
+time of sequental mult,: 0,212
+time of parallel mult,:  0,0780001
+
+Launch number 4
+time of sequental mult,: 0,19
+time of parallel mult,:  0,0599999
+
+Launch number 5
+time of sequental mult,: 0,194
+time of parallel mult,:  0,079
+
+Number of threads: 7
+Launch number 1
+time of sequental mult,: 0,199
+time of parallel mult,:  0,0780001
+
+Launch number 2
+time of sequental mult,: 0,2
+time of parallel mult,:  0,069
+
+Launch number 3
+time of sequental mult,: 0,192
+time of parallel mult,:  0,069
+
+Launch number 4
+time of sequental mult,: 0,193
+time of parallel mult,:  0,063
+
+Launch number 5
+time of sequental mult,: 0,195
+time of parallel mult,:  0,063
+
+Number of threads: 8
+Launch number 1
+time of sequental mult,: 0,199
+time of parallel mult,:  0,062
+
+Launch number 2
+time of sequental mult,: 0,194
+time of parallel mult,:  0,0469999
+
+Launch number 3
+time of sequental mult,: 0,207
+time of parallel mult,:  0,063
+
+Launch number 4
+time of sequental mult,: 0,198
+time of parallel mult,:  0,062
+
+Launch number 5
+time of sequental mult,: 0,207
+time of parallel mult,:  0,0480001
+
+Number of threads: 9
+Launch number 1
+time of sequental mult,: 0,197
+time of parallel mult,:  0,0819998
+
+Launch number 2
+time of sequental mult,: 0,204
+time of parallel mult,:  0,063
+
+Launch number 3
+time of sequental mult,: 0,204
+time of parallel mult,:  0,073
+
+Launch number 4
+time of sequental mult,: 0,201
+time of parallel mult,:  0,0780001
+
+Launch number 5
+time of sequental mult,: 0,204
+time of parallel mult,:  0,075
+
+Number of threads: 10
+Launch number 1
+time of sequental mult,: 0,208
+time of parallel mult,:  0,0700002
+
+Launch number 2
+time of sequental mult,: 0,203
+time of parallel mult,:  0,0619998
+
+Launch number 3
+time of sequental mult,: 0,201
+time of parallel mult,:  0,063
+
+Launch number 4
+time of sequental mult,: 0,202
+time of parallel mult,:  0,0599999
+
+Launch number 5
+time of sequental mult,: 0,195
+time of parallel mult,:  0,063
+
+Number of threads: 11
+Launch number 1
+time of sequental mult,: 0,2
+time of parallel mult,:  0,063
+
+Launch number 2
+time of sequental mult,: 0,194
+time of parallel mult,:  0,0469999
+
+Launch number 3
+time of sequental mult,: 0,191
+time of parallel mult,:  0,063
+
+Launch number 4
+time of sequental mult,: 0,202
+time of parallel mult,:  0,0630002
+
+Launch number 5
+time of sequental mult,: 0,192
+time of parallel mult,:  0,063
+
+Number of threads: 12
+Launch number 1
+time of sequental mult,: 0,198
+time of parallel mult,:  0,0780001
+
+Launch number 2
+time of sequental mult,: 0,202
+time of parallel mult,:  0,0470002
+
+Launch number 3
+time of sequental mult,: 0,207
+time of parallel mult,:  0,063
+
+Launch number 4
+time of sequental mult,: 0,196
+time of parallel mult,:  0,063
+
+Launch number 5
+time of sequental mult,: 0,191
+time of parallel mult,:  0,053
+
+Number of threads: 13
+Launch number 1
+time of sequental mult,: 0,199
+time of parallel mult,:  0,0780001
+
+Launch number 2
+time of sequental mult,: 0,199
+time of parallel mult,:  0,0779998
+
+Launch number 3
+time of sequental mult,: 0,196
+time of parallel mult,:  0,0799999
+
+Launch number 4
+time of sequental mult,: 0,192
+time of parallel mult,:  0,063
+
+Launch number 5
+time of sequental mult,: 0,203
+time of parallel mult,:  0,066
+
+Number of threads: 14
+Launch number 1
+time of sequental mult,: 0,189
+time of parallel mult,:  0,063
+
+Launch number 2
+time of sequental mult,: 0,202
+time of parallel mult,:  0,063
+
+Launch number 3
+time of sequental mult,: 0,207
+time of parallel mult,:  0,063
+
+Launch number 4
+time of sequental mult,: 0,193
+time of parallel mult,:  0,0669999
+
+Launch number 5
+time of sequental mult,: 0,193
+time of parallel mult,:  0,063
+
+Number of threads: 15
+Launch number 1
+time of sequental mult,: 0,195
+time of parallel mult,:  0,0469999
+
+Launch number 2
+time of sequental mult,: 0,197
+time of parallel mult,:  0,062
+
+Launch number 3
+time of sequental mult,: 0,191
+time of parallel mult,:  0,056
+
+Launch number 4
+time of sequental mult,: 0,206
+time of parallel mult,:  0,0680001
+
+Launch number 5
+time of sequental mult,: 0,196
+time of parallel mult,:  0,0619998
+
+Number of threads: 16
+Launch number 1
+time of sequental mult,: 0,191
+time of parallel mult,:  0,063
+
+Launch number 2
+time of sequental mult,: 0,201
+time of parallel mult,:  0,0650001
+
+Launch number 3
+time of sequental mult,: 0,199
+time of parallel mult,:  0,063
+
+Launch number 4
+time of sequental mult,: 0,206
+time of parallel mult,:  0,046
+
+Launch number 5
+time of sequental mult,: 0,197
+time of parallel mult,:  0,062
+
+Number of threads: 17
+Launch number 1
+time of sequental mult,: 0,191
+time of parallel mult,:  0,0780001
+
+Launch number 2
+time of sequental mult,: 0,195
+time of parallel mult,:  0,062
+
+Launch number 3
+time of sequental mult,: 0,209
+time of parallel mult,:  0,063
+
+Launch number 4
+time of sequental mult,: 0,199
+time of parallel mult,:  0,062
+
+Launch number 5
+time of sequental mult,: 0,204
+time of parallel mult,:  0,0580001
+
+Number of threads: 18
+Launch number 1
+time of sequental mult,: 0,206
+time of parallel mult,:  0,0630002
+
+Launch number 2
+time of sequental mult,: 0,199
+time of parallel mult,:  0,062
+
+Launch number 3
+time of sequental mult,: 0,2
+time of parallel mult,:  0,066
+
+Launch number 4
+time of sequental mult,: 0,212
+time of parallel mult,:  0,0639999
+
+Launch number 5
+time of sequental mult,: 0,195
+time of parallel mult,:  0,052
+
+Number of threads: 19
+Launch number 1
+time of sequental mult,: 0,218
+time of parallel mult,:  0,0880001
+
+Launch number 2
+time of sequental mult,: 0,214
+time of parallel mult,:  0,0610001
+
+Launch number 3
+time of sequental mult,: 0,218
+time of parallel mult,:  0,0479999
+
+Launch number 4
+time of sequental mult,: 0,196
+time of parallel mult,:  0,063
+
+Launch number 5
+time of sequental mult,: 0,197
+time of parallel mult,:  0,062
+
+Number of threads: 20
+Launch number 1
+time of sequental mult,: 0,195
+time of parallel mult,:  0,0469999
+
+Launch number 2
+time of sequental mult,: 0,192
+time of parallel mult,:  0,0619998
+
+Launch number 3
+time of sequental mult,: 0,195
+time of parallel mult,:  0,063
+
+Launch number 4
+time of sequental mult,: 0,192
+time of parallel mult,:  0,063
+
+Launch number 5
+time of sequental mult,: 0,191
+time of parallel mult,:  0,063
+
+--------------------
+Size of matrix: 400x400
+Number of threads: 1
+Launch number 1
+time of sequental mult,: 0,476
+time of parallel mult,:  0,543
+
+Launch number 2
+time of sequental mult,: 0,48
+time of parallel mult,:  0,534
+
+Launch number 3
+time of sequental mult,: 0,521
+time of parallel mult,:  0,526
+
+Launch number 4
+time of sequental mult,: 0,472
+time of parallel mult,:  0,531
+
+Launch number 5
+time of sequental mult,: 0,472
+time of parallel mult,:  0,516
+
+Number of threads: 2
+Launch number 1
+time of sequental mult,: 0,47
+time of parallel mult,:  0,255
+
+Launch number 2
+time of sequental mult,: 0,472
+time of parallel mult,:  0,266
+
+Launch number 3
+time of sequental mult,: 0,484
+time of parallel mult,:  0,25
+
+Launch number 4
+time of sequental mult,: 0,469
+time of parallel mult,:  0,256
+
+Launch number 5
+time of sequental mult,: 0,475
+time of parallel mult,:  0,265
+
+Number of threads: 3
+Launch number 1
+time of sequental mult,: 0,478
+time of parallel mult,:  0,172
+
+Launch number 2
+time of sequental mult,: 0,466
+time of parallel mult,:  0,171
+
+Launch number 3
+time of sequental mult,: 0,477
+time of parallel mult,:  0,173
+
+Launch number 4
+time of sequental mult,: 0,487
+time of parallel mult,:  0,172
+
+Launch number 5
+time of sequental mult,: 0,472
+time of parallel mult,:  0,172
+
+Number of threads: 4
+Launch number 1
+time of sequental mult,: 0,482
+time of parallel mult,:  0,125
+
+Launch number 2
+time of sequental mult,: 0,475
+time of parallel mult,:  0,141
+
+Launch number 3
+time of sequental mult,: 0,485
+time of parallel mult,:  0,125
+
+Launch number 4
+time of sequental mult,: 0,482
+time of parallel mult,:  0,14
+
+Launch number 5
+time of sequental mult,: 0,471
+time of parallel mult,:  0,13
+
+Number of threads: 5
+Launch number 1
+time of sequental mult,: 0,48
+time of parallel mult,:  0,156
+
+Launch number 2
+time of sequental mult,: 0,483
+time of parallel mult,:  0,164
+
+Launch number 3
+time of sequental mult,: 0,484
+time of parallel mult,:  0,156
+
+Launch number 4
+time of sequental mult,: 0,476
+time of parallel mult,:  0,164
+
+Launch number 5
+time of sequental mult,: 0,486
+time of parallel mult,:  0,157
+
+Number of threads: 6
+Launch number 1
+time of sequental mult,: 0,475
+time of parallel mult,:  0,14
+
+Launch number 2
+time of sequental mult,: 0,471
+time of parallel mult,:  0,145
+
+Launch number 3
+time of sequental mult,: 0,483
+time of parallel mult,:  0,141
+
+Launch number 4
+time of sequental mult,: 0,48
+time of parallel mult,:  0,141
+
+Launch number 5
+time of sequental mult,: 0,477
+time of parallel mult,:  0,142
+
+Number of threads: 7
+Launch number 1
+time of sequental mult,: 0,482
+time of parallel mult,:  0,141
+
+Launch number 2
+time of sequental mult,: 0,477
+time of parallel mult,:  0,126
+
+Launch number 3
+time of sequental mult,: 0,471
+time of parallel mult,:  0,141
+
+Launch number 4
+time of sequental mult,: 0,488
+time of parallel mult,:  0,141
+
+Launch number 5
+time of sequental mult,: 0,47
+time of parallel mult,:  0,125
+
+Number of threads: 8
+Launch number 1
+time of sequental mult,: 0,466
+time of parallel mult,:  0,126
+
+Launch number 2
+time of sequental mult,: 0,48
+time of parallel mult,:  0,125
+
+Launch number 3
+time of sequental mult,: 0,477
+time of parallel mult,:  0,142
+
+Launch number 4
+time of sequental mult,: 0,466
+time of parallel mult,:  0,125
+
+Launch number 5
+time of sequental mult,: 0,487
+time of parallel mult,:  0,126
+
+Number of threads: 9
+Launch number 1
+time of sequental mult,: 0,472
+time of parallel mult,:  0,147
+
+Launch number 2
+time of sequental mult,: 0,475
+time of parallel mult,:  0,14
+
+Launch number 3
+time of sequental mult,: 0,477
+time of parallel mult,:  0,141
+
+Launch number 4
+time of sequental mult,: 0,483
+time of parallel mult,:  0,141
+
+Launch number 5
+time of sequental mult,: 0,484
+time of parallel mult,:  0,142
+
+Number of threads: 10
+Launch number 1
+time of sequental mult,: 0,471
+time of parallel mult,:  0,141
+
+Launch number 2
+time of sequental mult,: 0,475
+time of parallel mult,:  0,141
+
+Launch number 3
+time of sequental mult,: 0,476
+time of parallel mult,:  0,146
+
+Launch number 4
+time of sequental mult,: 0,481
+time of parallel mult,:  0,141
+
+Launch number 5
+time of sequental mult,: 0,486
+time of parallel mult,:  0,14
+
+Number of threads: 11
+Launch number 1
+time of sequental mult,: 0,476
+time of parallel mult,:  0,14
+
+Launch number 2
+time of sequental mult,: 0,482
+time of parallel mult,:  0,125
+
+Launch number 3
+time of sequental mult,: 0,483
+time of parallel mult,:  0,125
+
+Launch number 4
+time of sequental mult,: 0,481
+time of parallel mult,:  0,141
+
+Launch number 5
+time of sequental mult,: 0,485
+time of parallel mult,:  0,125
+
+Number of threads: 12
+Launch number 1
+time of sequental mult,: 0,471
+time of parallel mult,:  0,126
+
+Launch number 2
+time of sequental mult,: 0,48
+time of parallel mult,:  0,141
+
+Launch number 3
+time of sequental mult,: 0,478
+time of parallel mult,:  0,141
+
+Launch number 4
+time of sequental mult,: 0,479
+time of parallel mult,:  0,125
+
+Launch number 5
+time of sequental mult,: 0,479
+time of parallel mult,:  0,141
+
+Number of threads: 13
+Launch number 1
+time of sequental mult,: 0,476
+time of parallel mult,:  0,14
+
+Launch number 2
+time of sequental mult,: 0,484
+time of parallel mult,:  0,138
+
+Launch number 3
+time of sequental mult,: 0,47
+time of parallel mult,:  0,146
+
+Launch number 4
+time of sequental mult,: 0,475
+time of parallel mult,:  0,141
+
+Launch number 5
+time of sequental mult,: 0,475
+time of parallel mult,:  0,158
+
+Number of threads: 14
+Launch number 1
+time of sequental mult,: 0,47
+time of parallel mult,:  0,141
+
+Launch number 2
+time of sequental mult,: 0,483
+time of parallel mult,:  0,136
+
+Launch number 3
+time of sequental mult,: 0,485
+time of parallel mult,:  0,14
+
+Launch number 4
+time of sequental mult,: 0,472
+time of parallel mult,:  0,141
+
+Launch number 5
+time of sequental mult,: 0,478
+time of parallel mult,:  0,146
+
+Number of threads: 15
+Launch number 1
+time of sequental mult,: 0,474
+time of parallel mult,:  0,127
+
+Launch number 2
+time of sequental mult,: 0,472
+time of parallel mult,:  0,141
+
+Launch number 3
+time of sequental mult,: 0,487
+time of parallel mult,:  0,132
+
+Launch number 4
+time of sequental mult,: 0,486
+time of parallel mult,:  0,14
+
+Launch number 5
+time of sequental mult,: 0,473
+time of parallel mult,:  0,126
+
+Number of threads: 16
+Launch number 1
+time of sequental mult,: 0,478
+time of parallel mult,:  0,14
+
+Launch number 2
+time of sequental mult,: 0,468
+time of parallel mult,:  0,139
+
+Launch number 3
+time of sequental mult,: 0,472
+time of parallel mult,:  0,141
+
+Launch number 4
+time of sequental mult,: 0,472
+time of parallel mult,:  0,125
+
+Launch number 5
+time of sequental mult,: 0,472
+time of parallel mult,:  0,125
+
+Number of threads: 17
+Launch number 1
+time of sequental mult,: 0,472
+time of parallel mult,:  0,158
+
+Launch number 2
+time of sequental mult,: 0,481
+time of parallel mult,:  0,141
+
+Launch number 3
+time of sequental mult,: 0,472
+time of parallel mult,:  0,158
+
+Launch number 4
+time of sequental mult,: 0,486
+time of parallel mult,:  0,14
+
+Launch number 5
+time of sequental mult,: 0,471
+time of parallel mult,:  0,144
+
+Number of threads: 18
+Launch number 1
+time of sequental mult,: 0,475
+time of parallel mult,:  0,156
+
+Launch number 2
+time of sequental mult,: 0,474
+time of parallel mult,:  0,149
+
+Launch number 3
+time of sequental mult,: 0,486
+time of parallel mult,:  0,14
+
+Launch number 4
+time of sequental mult,: 0,475
+time of parallel mult,:  0,134
+
+Launch number 5
+time of sequental mult,: 0,469
+time of parallel mult,:  0,156
+
+Number of threads: 19
+Launch number 1
+time of sequental mult,: 0,472
+time of parallel mult,:  0,135
+
+Launch number 2
+time of sequental mult,: 0,483
+time of parallel mult,:  0,141
+
+Launch number 3
+time of sequental mult,: 0,474
+time of parallel mult,:  0,135
+
+Launch number 4
+time of sequental mult,: 0,482
+time of parallel mult,:  0,141
+
+Launch number 5
+time of sequental mult,: 0,48
+time of parallel mult,:  0,14
+
+Number of threads: 20
+Launch number 1
+time of sequental mult,: 0,468
+time of parallel mult,:  0,125
+
+Launch number 2
+time of sequental mult,: 0,477
+time of parallel mult,:  0,125
+
+Launch number 3
+time of sequental mult,: 0,479
+time of parallel mult,:  0,125
+
+Launch number 4
+time of sequental mult,: 0,475
+time of parallel mult,:  0,143
+
+Launch number 5
+time of sequental mult,: 0,489
+time of parallel mult,:  0,141
+
+--------------------
+Size of matrix: 500x500
+Number of threads: 1
+Launch number 1
+time of sequental mult,: 0,94
+time of parallel mult,:  1
+
+Launch number 2
+time of sequental mult,: 0,93
+time of parallel mult,:  1,012
+
+Launch number 3
+time of sequental mult,: 0,932
+time of parallel mult,:  1,016
+
+Launch number 4
+time of sequental mult,: 0,931
+time of parallel mult,:  1,031
+
+Launch number 5
+time of sequental mult,: 0,936
+time of parallel mult,:  1,023
+
+Number of threads: 2
+Launch number 1
+time of sequental mult,: 0,929
+time of parallel mult,:  0,516
+
+Launch number 2
+time of sequental mult,: 0,932
+time of parallel mult,:  0,515
+
+Launch number 3
+time of sequental mult,: 0,923
+time of parallel mult,:  0,505
+
+Launch number 4
+time of sequental mult,: 0,925
+time of parallel mult,:  0,516
+
+Launch number 5
+time of sequental mult,: 0,917
+time of parallel mult,:  0,515
+
+Number of threads: 3
+Launch number 1
+time of sequental mult,: 0,937
+time of parallel mult,:  0,344
+
+Launch number 2
+time of sequental mult,: 0,947
+time of parallel mult,:  0,344
+
+Launch number 3
+time of sequental mult,: 0,938
+time of parallel mult,:  0,344
+
+Launch number 4
+time of sequental mult,: 0,954
+time of parallel mult,:  0,345
+
+Launch number 5
+time of sequental mult,: 0,935
+time of parallel mult,:  0,36
+
+Number of threads: 4
+Launch number 1
+time of sequental mult,: 0,938
+time of parallel mult,:  0,25
+
+Launch number 2
+time of sequental mult,: 0,938
+time of parallel mult,:  0,282
+
+Launch number 3
+time of sequental mult,: 0,94
+time of parallel mult,:  0,265
+
+Launch number 4
+time of sequental mult,: 0,925
+time of parallel mult,:  0,266
+
+Launch number 5
+time of sequental mult,: 0,947
+time of parallel mult,:  0,25
+
+Number of threads: 5
+Launch number 1
+time of sequental mult,: 0,929
+time of parallel mult,:  0,297
+
+Launch number 2
+time of sequental mult,: 0,95
+time of parallel mult,:  0,268
+
+Launch number 3
+time of sequental mult,: 0,931
+time of parallel mult,:  0,297
+
+Launch number 4
+time of sequental mult,: 0,952
+time of parallel mult,:  0,282
+
+Launch number 5
+time of sequental mult,: 0,927
+time of parallel mult,:  0,265
+
+Number of threads: 6
+Launch number 1
+time of sequental mult,: 0,935
+time of parallel mult,:  0,252
+
+Launch number 2
+time of sequental mult,: 0,924
+time of parallel mult,:  0,283
+
+Launch number 3
+time of sequental mult,: 0,952
+time of parallel mult,:  0,267
+
+Launch number 4
+time of sequental mult,: 0,934
+time of parallel mult,:  0,294
+
+Launch number 5
+time of sequental mult,: 0,944
+time of parallel mult,:  0,268
+
+Number of threads: 7
+Launch number 1
+time of sequental mult,: 0,941
+time of parallel mult,:  0,271
+
+Launch number 2
+time of sequental mult,: 0,941
+time of parallel mult,:  0,271
+
+Launch number 3
+time of sequental mult,: 0,923
+time of parallel mult,:  0,281
+
+Launch number 4
+time of sequental mult,: 0,935
+time of parallel mult,:  0,267
+
+Launch number 5
+time of sequental mult,: 0,934
+time of parallel mult,:  0,298
+
+Number of threads: 8
+Launch number 1
+time of sequental mult,: 0,942
+time of parallel mult,:  0,25
+
+Launch number 2
+time of sequental mult,: 0,932
+time of parallel mult,:  0,282
+
+Launch number 3
+time of sequental mult,: 0,927
+time of parallel mult,:  0,251
+
+Launch number 4
+time of sequental mult,: 0,936
+time of parallel mult,:  0,266
+
+Launch number 5
+time of sequental mult,: 0,946
+time of parallel mult,:  0,266
+
+Number of threads: 9
+Launch number 1
+time of sequental mult,: 0,931
+time of parallel mult,:  0,266
+
+Launch number 2
+time of sequental mult,: 0,932
+time of parallel mult,:  0,265
+
+Launch number 3
+time of sequental mult,: 0,932
+time of parallel mult,:  0,265
+
+Launch number 4
+time of sequental mult,: 0,944
+time of parallel mult,:  0,265
+
+Launch number 5
+time of sequental mult,: 0,927
+time of parallel mult,:  0,267
+
+Number of threads: 10
+Launch number 1
+time of sequental mult,: 0,945
+time of parallel mult,:  0,267
+
+Launch number 2
+time of sequental mult,: 0,928
+time of parallel mult,:  0,283
+
+Launch number 3
+time of sequental mult,: 0,939
+time of parallel mult,:  0,266
+
+Launch number 4
+time of sequental mult,: 0,938
+time of parallel mult,:  0,277
+
+Launch number 5
+time of sequental mult,: 0,935
+time of parallel mult,:  0,256
+
+Number of threads: 11
+Launch number 1
+time of sequental mult,: 0,936
+time of parallel mult,:  0,281
+
+Launch number 2
+time of sequental mult,: 0,947
+time of parallel mult,:  0,265
+
+Launch number 3
+time of sequental mult,: 0,943
+time of parallel mult,:  0,281
+
+Launch number 4
+time of sequental mult,: 0,946
+time of parallel mult,:  0,266
+
+Launch number 5
+time of sequental mult,: 0,925
+time of parallel mult,:  0,265
+
+Number of threads: 12
+Launch number 1
+time of sequental mult,: 0,938
+time of parallel mult,:  0,266
+
+Launch number 2
+time of sequental mult,: 0,932
+time of parallel mult,:  0,266
+
+Launch number 3
+time of sequental mult,: 0,934
+time of parallel mult,:  0,25
+
+Launch number 4
+time of sequental mult,: 0,936
+time of parallel mult,:  0,265
+
+Launch number 5
+time of sequental mult,: 0,943
+time of parallel mult,:  0,266
+
+Number of threads: 13
+Launch number 1
+time of sequental mult,: 0,928
+time of parallel mult,:  0,266
+
+Launch number 2
+time of sequental mult,: 0,946
+time of parallel mult,:  0,266
+
+Launch number 3
+time of sequental mult,: 0,927
+time of parallel mult,:  0,267
+
+Launch number 4
+time of sequental mult,: 0,944
+time of parallel mult,:  0,267
+
+Launch number 5
+time of sequental mult,: 0,936
+time of parallel mult,:  0,266
+
+Number of threads: 14
+Launch number 1
+time of sequental mult,: 0,944
+time of parallel mult,:  0,25
+
+Launch number 2
+time of sequental mult,: 0,922
+time of parallel mult,:  0,275
+
+Launch number 3
+time of sequental mult,: 0,938
+time of parallel mult,:  0,272
+
+Launch number 4
+time of sequental mult,: 0,923
+time of parallel mult,:  0,266
+
+Launch number 5
+time of sequental mult,: 0,946
+time of parallel mult,:  0,266
+
+Number of threads: 15
+Launch number 1
+time of sequental mult,: 0,931
+time of parallel mult,:  0,266
+
+Launch number 2
+time of sequental mult,: 0,931
+time of parallel mult,:  0,265
+
+Launch number 3
+time of sequental mult,: 0,931
+time of parallel mult,:  0,266
+
+Launch number 4
+time of sequental mult,: 0,944
+time of parallel mult,:  0,266
+
+Launch number 5
+time of sequental mult,: 0,924
+time of parallel mult,:  0,266
+
+Number of threads: 16
+Launch number 1
+time of sequental mult,: 0,947
+time of parallel mult,:  0,265
+
+Launch number 2
+time of sequental mult,: 0,926
+time of parallel mult,:  0,25
+
+Launch number 3
+time of sequental mult,: 0,947
+time of parallel mult,:  0,25
+
+Launch number 4
+time of sequental mult,: 0,933
+time of parallel mult,:  0,281
+
+Launch number 5
+time of sequental mult,: 0,943
+time of parallel mult,:  0,262
+
+Number of threads: 17
+Launch number 1
+time of sequental mult,: 0,929
+time of parallel mult,:  0,267
+
+Launch number 2
+time of sequental mult,: 0,931
+time of parallel mult,:  0,251
+
+Launch number 3
+time of sequental mult,: 0,928
+time of parallel mult,:  0,285
+
+Launch number 4
+time of sequental mult,: 0,942
+time of parallel mult,:  0,274
+
+Launch number 5
+time of sequental mult,: 0,933
+time of parallel mult,:  0,281
+
+Number of threads: 18
+Launch number 1
+time of sequental mult,: 0,957
+time of parallel mult,:  0,265
+
+Launch number 2
+time of sequental mult,: 0,937
+time of parallel mult,:  0,281
+
+Launch number 3
+time of sequental mult,: 0,935
+time of parallel mult,:  0,265
+
+Launch number 4
+time of sequental mult,: 0,937
+time of parallel mult,:  0,265
+
+Launch number 5
+time of sequental mult,: 0,933
+time of parallel mult,:  0,25
+
+Number of threads: 19
+Launch number 1
+time of sequental mult,: 0,918
+time of parallel mult,:  0,265
+
+Launch number 2
+time of sequental mult,: 0,936
+time of parallel mult,:  0,25
+
+Launch number 3
+time of sequental mult,: 0,931
+time of parallel mult,:  0,281
+
+Launch number 4
+time of sequental mult,: 0,939
+time of parallel mult,:  0,271
+
+Launch number 5
+time of sequental mult,: 0,948
+time of parallel mult,:  0,266
+
+Number of threads: 20
+Launch number 1
+time of sequental mult,: 0,936
+time of parallel mult,:  0,265
+
+Launch number 2
+time of sequental mult,: 0,934
+time of parallel mult,:  0,268
+
+Launch number 3
+time of sequental mult,: 0,945
+time of parallel mult,:  0,268
+
+Launch number 4
+time of sequental mult,: 0,935
+time of parallel mult,:  0,267
+
+Launch number 5
+time of sequental mult,: 0,941
+time of parallel mult,:  0,267
+
+--------------------
+Size of matrix: 600x600
+Number of threads: 1
+Launch number 1
+time of sequental mult,: 1,635
+time of parallel mult,:  1,752
+
+Launch number 2
+time of sequental mult,: 1,631
+time of parallel mult,:  1,752
+
+Launch number 3
+time of sequental mult,: 1,615
+time of parallel mult,:  1,77
+
+Launch number 4
+time of sequental mult,: 1,626
+time of parallel mult,:  1,758
+
+Launch number 5
+time of sequental mult,: 1,617
+time of parallel mult,:  1,742
+
+Number of threads: 2
+Launch number 1
+time of sequental mult,: 1,62
+time of parallel mult,:  0,893
+
+Launch number 2
+time of sequental mult,: 1,615
+time of parallel mult,:  0,883
+
+Launch number 3
+time of sequental mult,: 1,618
+time of parallel mult,:  0,877
+
+Launch number 4
+time of sequental mult,: 1,614
+time of parallel mult,:  0,868
+
+Launch number 5
+time of sequental mult,: 1,617
+time of parallel mult,:  0,877
+
+Number of threads: 3
+Launch number 1
+time of sequental mult,: 1,616
+time of parallel mult,:  0,586
+
+Launch number 2
+time of sequental mult,: 1,628
+time of parallel mult,:  0,581
+
+Launch number 3
+time of sequental mult,: 1,626
+time of parallel mult,:  0,602
+
+Launch number 4
+time of sequental mult,: 1,635
+time of parallel mult,:  0,585
+
+Launch number 5
+time of sequental mult,: 1,627
+time of parallel mult,:  0,596
+
+Number of threads: 4
+Launch number 1
+time of sequental mult,: 1,624
+time of parallel mult,:  0,478
+
+Launch number 2
+time of sequental mult,: 1,61
+time of parallel mult,:  0,441
+
+Launch number 3
+time of sequental mult,: 1,618
+time of parallel mult,:  0,435
+
+Launch number 4
+time of sequental mult,: 1,626
+time of parallel mult,:  0,438
+
+Launch number 5
+time of sequental mult,: 1,627
+time of parallel mult,:  0,446
+
+Number of threads: 5
+Launch number 1
+time of sequental mult,: 1,623
+time of parallel mult,:  0,454
+
+Launch number 2
+time of sequental mult,: 1,619
+time of parallel mult,:  0,455
+
+Launch number 3
+time of sequental mult,: 1,634
+time of parallel mult,:  0,487
+
+Launch number 4
+time of sequental mult,: 1,612
+time of parallel mult,:  0,47
+
+Launch number 5
+time of sequental mult,: 1,614
+time of parallel mult,:  0,48
+
+Number of threads: 6
+Launch number 1
+time of sequental mult,: 1,615
+time of parallel mult,:  0,436
+
+Launch number 2
+time of sequental mult,: 1,635
+time of parallel mult,:  0,463
+
+Launch number 3
+time of sequental mult,: 1,629
+time of parallel mult,:  0,439
+
+Launch number 4
+time of sequental mult,: 1,618
+time of parallel mult,:  0,454
+
+Launch number 5
+time of sequental mult,: 1,615
+time of parallel mult,:  0,457
+
+Number of threads: 7
+Launch number 1
+time of sequental mult,: 1,63
+time of parallel mult,:  0,454
+
+Launch number 2
+time of sequental mult,: 1,618
+time of parallel mult,:  0,451
+
+Launch number 3
+time of sequental mult,: 1,631
+time of parallel mult,:  0,454
+
+Launch number 4
+time of sequental mult,: 1,614
+time of parallel mult,:  0,445
+
+Launch number 5
+time of sequental mult,: 1,612
+time of parallel mult,:  0,448
+
+Number of threads: 8
+Launch number 1
+time of sequental mult,: 1,613
+time of parallel mult,:  0,444
+
+Launch number 2
+time of sequental mult,: 1,616
+time of parallel mult,:  0,44
+
+Launch number 3
+time of sequental mult,: 1,619
+time of parallel mult,:  0,438
+
+Launch number 4
+time of sequental mult,: 1,623
+time of parallel mult,:  0,44
+
+Launch number 5
+time of sequental mult,: 1,622
+time of parallel mult,:  0,436
+
+Number of threads: 9
+Launch number 1
+time of sequental mult,: 1,625
+time of parallel mult,:  0,431
+
+Launch number 2
+time of sequental mult,: 1,615
+time of parallel mult,:  0,443
+
+Launch number 3
+time of sequental mult,: 1,619
+time of parallel mult,:  0,449
+
+Launch number 4
+time of sequental mult,: 1,615
+time of parallel mult,:  0,46
+
+Launch number 5
+time of sequental mult,: 1,627
+time of parallel mult,:  0,45
+
+Number of threads: 10
+Launch number 1
+time of sequental mult,: 1,623
+time of parallel mult,:  0,448
+
+Launch number 2
+time of sequental mult,: 1,62
+time of parallel mult,:  0,455
+
+Launch number 3
+time of sequental mult,: 1,617
+time of parallel mult,:  0,449
+
+Launch number 4
+time of sequental mult,: 1,623
+time of parallel mult,:  0,445
+
+Launch number 5
+time of sequental mult,: 1,631
+time of parallel mult,:  0,441
+
+Number of threads: 11
+Launch number 1
+time of sequental mult,: 1,621
+time of parallel mult,:  0,432
+
+Launch number 2
+time of sequental mult,: 1,626
+time of parallel mult,:  0,46
+
+Launch number 3
+time of sequental mult,: 1,618
+time of parallel mult,:  0,433
+
+Launch number 4
+time of sequental mult,: 1,623
+time of parallel mult,:  0,434
+
+Launch number 5
+time of sequental mult,: 1,618
+time of parallel mult,:  0,446
+
+Number of threads: 12
+Launch number 1
+time of sequental mult,: 1,622
+time of parallel mult,:  0,432
+
+Launch number 2
+time of sequental mult,: 1,617
+time of parallel mult,:  0,437
+
+Launch number 3
+time of sequental mult,: 1,632
+time of parallel mult,:  0,435
+
+Launch number 4
+time of sequental mult,: 1,616
+time of parallel mult,:  0,455
+
+Launch number 5
+time of sequental mult,: 1,618
+time of parallel mult,:  0,464
+
+Number of threads: 13
+Launch number 1
+time of sequental mult,: 1,644
+time of parallel mult,:  0,446
+
+Launch number 2
+time of sequental mult,: 1,627
+time of parallel mult,:  0,447
+
+Launch number 3
+time of sequental mult,: 1,631
+time of parallel mult,:  0,449
+
+Launch number 4
+time of sequental mult,: 1,617
+time of parallel mult,:  0,434
+
+Launch number 5
+time of sequental mult,: 1,621
+time of parallel mult,:  0,45
+
+Number of threads: 14
+Launch number 1
+time of sequental mult,: 1,629
+time of parallel mult,:  0,445
+
+Launch number 2
+time of sequental mult,: 1,627
+time of parallel mult,:  0,446
+
+Launch number 3
+time of sequental mult,: 1,628
+time of parallel mult,:  0,455
+
+Launch number 4
+time of sequental mult,: 1,618
+time of parallel mult,:  0,435
+
+Launch number 5
+time of sequental mult,: 1,611
+time of parallel mult,:  0,444
+
+Number of threads: 15
+Launch number 1
+time of sequental mult,: 1,633
+time of parallel mult,:  0,441
+
+Launch number 2
+time of sequental mult,: 1,629
+time of parallel mult,:  0,459
+
+Launch number 3
+time of sequental mult,: 1,619
+time of parallel mult,:  0,452
+
+Launch number 4
+time of sequental mult,: 1,613
+time of parallel mult,:  0,455
+
+Launch number 5
+time of sequental mult,: 1,617
+time of parallel mult,:  0,454
+
+Number of threads: 16
+Launch number 1
+time of sequental mult,: 1,617
+time of parallel mult,:  0,437
+
+Launch number 2
+time of sequental mult,: 1,614
+time of parallel mult,:  0,429
+
+Launch number 3
+time of sequental mult,: 1,63
+time of parallel mult,:  0,438
+
+Launch number 4
+time of sequental mult,: 1,621
+time of parallel mult,:  0,446
+
+Launch number 5
+time of sequental mult,: 1,635
+time of parallel mult,:  0,457
+
+Number of threads: 17
+Launch number 1
+time of sequental mult,: 1,632
+time of parallel mult,:  0,455
+
+Launch number 2
+time of sequental mult,: 1,614
+time of parallel mult,:  0,434
+
+Launch number 3
+time of sequental mult,: 1,609
+time of parallel mult,:  0,459
+
+Launch number 4
+time of sequental mult,: 1,624
+time of parallel mult,:  0,455
+
+Launch number 5
+time of sequental mult,: 1,634
+time of parallel mult,:  0,447
+
+Number of threads: 18
+Launch number 1
+time of sequental mult,: 1,63
+time of parallel mult,:  0,46
+
+Launch number 2
+time of sequental mult,: 1,628
+time of parallel mult,:  0,438
+
+Launch number 3
+time of sequental mult,: 1,622
+time of parallel mult,:  0,44
+
+Launch number 4
+time of sequental mult,: 1,618
+time of parallel mult,:  0,44
+
+Launch number 5
+time of sequental mult,: 1,622
+time of parallel mult,:  0,438
+
+Number of threads: 19
+Launch number 1
+time of sequental mult,: 1,624
+time of parallel mult,:  0,443
+
+Launch number 2
+time of sequental mult,: 1,61
+time of parallel mult,:  0,441
+
+Launch number 3
+time of sequental mult,: 1,637
+time of parallel mult,:  0,432
+
+Launch number 4
+time of sequental mult,: 1,613
+time of parallel mult,:  0,441
+
+Launch number 5
+time of sequental mult,: 1,621
+time of parallel mult,:  0,443
+
+Number of threads: 20
+Launch number 1
+time of sequental mult,: 1,613
+time of parallel mult,:  0,45
+
+Launch number 2
+time of sequental mult,: 1,618
+time of parallel mult,:  0,432
+
+Launch number 3
+time of sequental mult,: 1,635
+time of parallel mult,:  0,445
+
+Launch number 4
+time of sequental mult,: 1,61
+time of parallel mult,:  0,448
+
+Launch number 5
+time of sequental mult,: 1,618
+time of parallel mult,:  0,439
+
+--------------------
+Size of matrix: 700x700
+Number of threads: 1
+Launch number 1
+time of sequental mult,: 2,58
+time of parallel mult,:  2,777
+
+Launch number 2
+time of sequental mult,: 2,598
+time of parallel mult,:  2,786
+
+Launch number 3
+time of sequental mult,: 2,589
+time of parallel mult,:  2,798
+
+Launch number 4
+time of sequental mult,: 2,583
+time of parallel mult,:  2,757
+
+Launch number 5
+time of sequental mult,: 2,603
+time of parallel mult,:  2,741
+
+Number of threads: 2
+Launch number 1
+time of sequental mult,: 2,593
+time of parallel mult,:  1,391
+
+Launch number 2
+time of sequental mult,: 2,593
+time of parallel mult,:  1,391
+
+Launch number 3
+time of sequental mult,: 2,6
+time of parallel mult,:  1,396
+
+Launch number 4
+time of sequental mult,: 2,591
+time of parallel mult,:  1,411
+
+Launch number 5
+time of sequental mult,: 2,595
+time of parallel mult,:  1,397
+
+Number of threads: 3
+Launch number 1
+time of sequental mult,: 2,603
+time of parallel mult,:  0,937
+
+Launch number 2
+time of sequental mult,: 2,584
+time of parallel mult,:  0,938
+
+Launch number 3
+time of sequental mult,: 2,585
+time of parallel mult,:  0,926
+
+Launch number 4
+time of sequental mult,: 2,588
+time of parallel mult,:  0,927
+
+Launch number 5
+time of sequental mult,: 2,602
+time of parallel mult,:  0,938
+
+Number of threads: 4
+Launch number 1
+time of sequental mult,: 2,577
+time of parallel mult,:  0,703
+
+Launch number 2
+time of sequental mult,: 2,583
+time of parallel mult,:  0,693
+
+Launch number 3
+time of sequental mult,: 2,585
+time of parallel mult,:  0,688
+
+Launch number 4
+time of sequental mult,: 2,596
+time of parallel mult,:  0,704
+
+Launch number 5
+time of sequental mult,: 2,593
+time of parallel mult,:  0,694
+
+Number of threads: 5
+Launch number 1
+time of sequental mult,: 2,579
+time of parallel mult,:  0,797
+
+Launch number 2
+time of sequental mult,: 2,591
+time of parallel mult,:  0,719
+
+Launch number 3
+time of sequental mult,: 2,575
+time of parallel mult,:  0,742
+
+Launch number 4
+time of sequental mult,: 2,578
+time of parallel mult,:  0,765
+
+Launch number 5
+time of sequental mult,: 2,573
+time of parallel mult,:  0,718
+
+Number of threads: 6
+Launch number 1
+time of sequental mult,: 2,588
+time of parallel mult,:  0,736
+
+Launch number 2
+time of sequental mult,: 2,595
+time of parallel mult,:  0,719
+
+Launch number 3
+time of sequental mult,: 2,595
+time of parallel mult,:  0,719
+
+Launch number 4
+time of sequental mult,: 2,599
+time of parallel mult,:  0,704
+
+Launch number 5
+time of sequental mult,: 2,589
+time of parallel mult,:  0,735
+
+Number of threads: 7
+Launch number 1
+time of sequental mult,: 2,586
+time of parallel mult,:  0,703
+
+Launch number 2
+time of sequental mult,: 2,595
+time of parallel mult,:  0,705
+
+Launch number 3
+time of sequental mult,: 2,589
+time of parallel mult,:  0,718
+
+Launch number 4
+time of sequental mult,: 2,572
+time of parallel mult,:  0,72
+
+Launch number 5
+time of sequental mult,: 2,594
+time of parallel mult,:  0,719
+
+Number of threads: 8
+Launch number 1
+time of sequental mult,: 2,591
+time of parallel mult,:  0,708
+
+Launch number 2
+time of sequental mult,: 2,572
+time of parallel mult,:  0,703
+
+Launch number 3
+time of sequental mult,: 2,599
+time of parallel mult,:  0,703
+
+Launch number 4
+time of sequental mult,: 2,583
+time of parallel mult,:  0,694
+
+Launch number 5
+time of sequental mult,: 2,589
+time of parallel mult,:  0,703
+
+Number of threads: 9
+Launch number 1
+time of sequental mult,: 2,585
+time of parallel mult,:  0,703
+
+Launch number 2
+time of sequental mult,: 2,579
+time of parallel mult,:  0,709
+
+Launch number 3
+time of sequental mult,: 2,611
+time of parallel mult,:  0,703
+
+Launch number 4
+time of sequental mult,: 2,581
+time of parallel mult,:  0,703
+
+Launch number 5
+time of sequental mult,: 2,582
+time of parallel mult,:  0,694
+
+Number of threads: 10
+Launch number 1
+time of sequental mult,: 2,593
+time of parallel mult,:  0,687
+
+Launch number 2
+time of sequental mult,: 2,58
+time of parallel mult,:  0,703
+
+Launch number 3
+time of sequental mult,: 2,591
+time of parallel mult,:  0,694
+
+Launch number 4
+time of sequental mult,: 2,603
+time of parallel mult,:  0,718
+
+Launch number 5
+time of sequental mult,: 2,595
+time of parallel mult,:  0,716
+
+Number of threads: 11
+Launch number 1
+time of sequental mult,: 2,579
+time of parallel mult,:  0,689
+
+Launch number 2
+time of sequental mult,: 2,579
+time of parallel mult,:  0,704
+
+Launch number 3
+time of sequental mult,: 2,587
+time of parallel mult,:  0,703
+
+Launch number 4
+time of sequental mult,: 2,59
+time of parallel mult,:  0,705
+
+Launch number 5
+time of sequental mult,: 2,583
+time of parallel mult,:  0,698
+
+Number of threads: 12
+Launch number 1
+time of sequental mult,: 2,576
+time of parallel mult,:  0,703
+
+Launch number 2
+time of sequental mult,: 2,587
+time of parallel mult,:  0,706
+
+Launch number 3
+time of sequental mult,: 2,583
+time of parallel mult,:  0,71
+
+Launch number 4
+time of sequental mult,: 2,595
+time of parallel mult,:  0,703
+
+Launch number 5
+time of sequental mult,: 2,586
+time of parallel mult,:  0,69
+
+Number of threads: 13
+Launch number 1
+time of sequental mult,: 2,589
+time of parallel mult,:  0,703
+
+Launch number 2
+time of sequental mult,: 2,568
+time of parallel mult,:  0,703
+
+Launch number 3
+time of sequental mult,: 2,589
+time of parallel mult,:  0,69
+
+Launch number 4
+time of sequental mult,: 2,597
+time of parallel mult,:  0,703
+
+Launch number 5
+time of sequental mult,: 2,6
+time of parallel mult,:  0,703
+
+Number of threads: 14
+Launch number 1
+time of sequental mult,: 2,592
+time of parallel mult,:  0,718
+
+Launch number 2
+time of sequental mult,: 2,586
+time of parallel mult,:  0,703
+
+Launch number 3
+time of sequental mult,: 2,589
+time of parallel mult,:  0,703
+
+Launch number 4
+time of sequental mult,: 2,578
+time of parallel mult,:  0,703
+
+Launch number 5
+time of sequental mult,: 2,589
+time of parallel mult,:  0,693
+
+Number of threads: 15
+Launch number 1
+time of sequental mult,: 2,567
+time of parallel mult,:  0,719
+
+Launch number 2
+time of sequental mult,: 2,596
+time of parallel mult,:  0,688
+
+Launch number 3
+time of sequental mult,: 2,576
+time of parallel mult,:  0,708
+
+Launch number 4
+time of sequental mult,: 2,583
+time of parallel mult,:  0,703
+
+Launch number 5
+time of sequental mult,: 2,582
+time of parallel mult,:  0,703
+
+Number of threads: 16
+Launch number 1
+time of sequental mult,: 2,597
+time of parallel mult,:  0,712
+
+Launch number 2
+time of sequental mult,: 2,588
+time of parallel mult,:  0,703
+
+Launch number 3
+time of sequental mult,: 2,589
+time of parallel mult,:  0,703
+
+Launch number 4
+time of sequental mult,: 2,584
+time of parallel mult,:  0,708
+
+Launch number 5
+time of sequental mult,: 2,594
+time of parallel mult,:  0,687
+
+Number of threads: 17
+Launch number 1
+time of sequental mult,: 2,57
+time of parallel mult,:  0,703
+
+Launch number 2
+time of sequental mult,: 2,584
+time of parallel mult,:  0,699
+
+Launch number 3
+time of sequental mult,: 2,583
+time of parallel mult,:  0,704
+
+Launch number 4
+time of sequental mult,: 2,594
+time of parallel mult,:  0,702
+
+Launch number 5
+time of sequental mult,: 2,577
+time of parallel mult,:  0,694
+
+Number of threads: 18
+Launch number 1
+time of sequental mult,: 2,59
+time of parallel mult,:  0,719
+
+Launch number 2
+time of sequental mult,: 2,578
+time of parallel mult,:  0,703
+
+Launch number 3
+time of sequental mult,: 2,592
+time of parallel mult,:  0,714
+
+Launch number 4
+time of sequental mult,: 2,576
+time of parallel mult,:  0,719
+
+Launch number 5
+time of sequental mult,: 2,589
+time of parallel mult,:  0,719
+
+Number of threads: 19
+Launch number 1
+time of sequental mult,: 2,585
+time of parallel mult,:  0,692
+
+Launch number 2
+time of sequental mult,: 2,581
+time of parallel mult,:  0,703
+
+Launch number 3
+time of sequental mult,: 2,599
+time of parallel mult,:  0,704
+
+Launch number 4
+time of sequental mult,: 2,591
+time of parallel mult,:  0,71
+
+Launch number 5
+time of sequental mult,: 2,601
+time of parallel mult,:  0,703
+
+Number of threads: 20
+Launch number 1
+time of sequental mult,: 2,577
+time of parallel mult,:  0,703
+
+Launch number 2
+time of sequental mult,: 2,593
+time of parallel mult,:  0,704
+
+Launch number 3
+time of sequental mult,: 2,567
+time of parallel mult,:  0,704
+
+Launch number 4
+time of sequental mult,: 2,575
+time of parallel mult,:  0,703
+
+Launch number 5
+time of sequental mult,: 2,593
+time of parallel mult,:  0,703
+
+Number_of_collapse = 4
