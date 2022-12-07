@@ -8,8 +8,15 @@ project(it-lab_first_task)
 set(HDR headers/function.hpp)
 set(SRC source/function.cpp)
 
+
 include_directories(.)
 add_library(func_algo ${HDR} ${SRC})
+
+set(HDR1 headers/f.hpp)
+set(SRC1 source/f.cpp)
+
+include_directories(.)
+add_library(func_algo1 ${HDR1} ${SRC1})
 
 find_package(OpenMP)
 
@@ -29,3 +36,6 @@ target_link_libraries(it-lab_first_task func_algo)
 target_link_libraries(it-lab_first_task ${OpenMP_LIBRARIES})
 
 add_executable(program_for_launch program.cpp)
+
+add_executable(data_render data_render.cpp)
+target_link_libraries(data_render func_algo1)
