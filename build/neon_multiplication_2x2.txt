@@ -1,0 +1,144 @@
+-------------------------Size of matrix: 600x600
+Launch number: 1
+Neon mutiply time(block 2x2): 2.77633
+
+Launch number: 2
+Neon mutiply time(block 2x2): 2.69597
+
+Launch number: 3
+Neon mutiply time(block 2x2): 2.70081
+
+Launch number: 4
+Neon mutiply time(block 2x2): 2.75675
+
+Launch number: 5
+Neon mutiply time(block 2x2): 2.7391
+
+-------------------------Size of matrix: 650x650
+Launch number: 1
+Neon mutiply time(block 2x2): 3.65827
+
+Launch number: 2
+Neon mutiply time(block 2x2): 3.67161
+
+Launch number: 3
+Neon mutiply time(block 2x2): 3.72154
+
+Launch number: 4
+Neon mutiply time(block 2x2): 3.71594
+
+Launch number: 5
+Neon mutiply time(block 2x2): 3.66176
+
+-------------------------Size of matrix: 700x700
+Launch number: 1
+Neon mutiply time(block 2x2): 4.71137
+
+Launch number: 2
+Neon mutiply time(block 2x2): 4.70724
+
+Launch number: 3
+Neon mutiply time(block 2x2): 4.6269
+
+Launch number: 4
+Neon mutiply time(block 2x2): 4.69626
+
+Launch number: 5
+Neon mutiply time(block 2x2): 4.60826
+
+-------------------------Size of matrix: 750x750
+Launch number: 1
+Neon mutiply time(block 2x2): 5.3751
+
+Launch number: 2
+Neon mutiply time(block 2x2): 5.70536
+
+Launch number: 3
+Neon mutiply time(block 2x2): 5.71868
+
+Launch number: 4
+Neon mutiply time(block 2x2): 5.62686
+
+Launch number: 5
+Neon mutiply time(block 2x2): 5.70812
+
+-------------------------Size of matrix: 800x800
+Launch number: 1
+Neon mutiply time(block 2x2): 6.19566
+
+Launch number: 2
+Neon mutiply time(block 2x2): 6.11212
+
+Launch number: 3
+Neon mutiply time(block 2x2): 6.15853
+
+Launch number: 4
+Neon mutiply time(block 2x2): 5.94187
+
+Launch number: 5
+Neon mutiply time(block 2x2): 5.97108
+
+-------------------------Size of matrix: 850x850
+Launch number: 1
+Neon mutiply time(block 2x2): 8.32201
+
+Launch number: 2
+Neon mutiply time(block 2x2): 8.34316
+
+Launch number: 3
+Neon mutiply time(block 2x2): 8.40248
+
+Launch number: 4
+Neon mutiply time(block 2x2): 8.40914
+
+Launch number: 5
+Neon mutiply time(block 2x2): 8.44985
+
+-------------------------Size of matrix: 900x900
+Launch number: 1
+Neon mutiply time(block 2x2): 10.2442
+
+Launch number: 2
+Neon mutiply time(block 2x2): 10.2462
+
+Launch number: 3
+Neon mutiply time(block 2x2): 10.2526
+
+Launch number: 4
+Neon mutiply time(block 2x2): 10.2371
+
+Launch number: 5
+Neon mutiply time(block 2x2): 10.2307
+
+-------------------------Size of matrix: 950x950
+Launch number: 1
+Neon mutiply time(block 2x2): 11.68
+
+Launch number: 2
+Neon mutiply time(block 2x2): 12.0007
+
+Launch number: 3
+Neon mutiply time(block 2x2): 12.01
+
+Launch number: 4
+Neon mutiply time(block 2x2): 12.0152
+
+Launch number: 5
+Neon mutiply time(block 2x2): 11.9943
+
+-------------------------Size of matrix: 1000x1000
+Launch number: 1
+Neon mutiply time(block 2x2): 13.8091
+
+Launch number: 2
+Neon mutiply time(block 2x2): 13.8597
+
+Launch number: 3
+Neon mutiply time(block 2x2): 13.8398
+
+Launch number: 4
+Neon mutiply time(block 2x2): 13.8286
+
+Launch number: 5
+Neon mutiply time(block 2x2): 13.804
+
