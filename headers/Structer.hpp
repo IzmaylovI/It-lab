@@ -13,16 +13,17 @@ public:
 
     Mtrx(int height_m = 0, int width_m = 0, ValType element = 0);
     Mtrx(const Mtrx& mtrx_m);                                                       // copy constructor
-    Mtrx(Mtrx&& mtrx_m);                                                            
-                                                                                    
+    Mtrx(Mtrx&& mtrx_m);
+
     ~Mtrx() { delete[] data; }                                                      // destructor
-            
+
     ValType det();
 
     Mtrx<ValType>& operator=(const Mtrx<ValType>& mtrx_m);                          // assignment operator
     Mtrx<ValType>& operator=(Mtrx<ValType>&& mtrx_m);                               // assignment operator
     ValType& operator[](int position_m);                                            // access
     const ValType& operator[](int position_m) const;                                // const access
+    ValType* get_ptr();								    // get data ptr
 
     // scalar operation
     Mtrx<ValType> operator*(const ValType& val);                                    // multiply by a scalar
@@ -31,7 +32,7 @@ public:
     // matrix operation
     template <typename T>
     friend Mtrx<T> operator*(const Mtrx<T>& mtrx_left, const Mtrx<T>& mtrx_right); // multiplication
-    
+
     template <typename T>
     friend Mtrx<T> Adamar(const Mtrx<T>& mtrx_left, const Mtrx<T>& mtrx_right);     // comp. multiplication
 
@@ -112,6 +113,11 @@ const ValType& Mtrx<ValType>::operator[](int position_m) const {
 template <typename ValType>
 ValType& Mtrx<ValType>::operator[](int position_m) {
     return data[position_m];
+} /*-------------------------------------------------------------------------*/
+
+template <typename ValType>
+ValType* Mtrx<ValType>::get_ptr(){
+    return data;
 } /*-------------------------------------------------------------------------*/
 
 template <typename ValType>

@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp    CMakeFiles/computer_vision.dir/main.cpp.o  -o computer_vision  libfunc_algo.a 

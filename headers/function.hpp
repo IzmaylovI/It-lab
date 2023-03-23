@@ -25,12 +25,7 @@ T multiplication_omp(const T& data1, const T& data2) {
 
 
 template <typename T>
-void multiplication_neon_float_4x4(const T& A, const T& B, const T& C) {
-    int row1 = data1.height;
-    int row2 = data2.height;
-    int col1 = data1.width;
-    int col2 = data2.width
-    
+void multiplication_neon_float_4x4(const T* A, const T* B, T* C, int row1, int col1, int col2) {
     int A_indx;
     int B_indx;
     int C_indx;
@@ -104,7 +99,7 @@ void multiplication_neon_float_4x4(const T& A, const T& B, const T& C) {
             vst1q_f32(C + C_indx, C0);
             vst1q_f32(C + C_indx + col2, C1);
             vst1q_f32(C + C_indx + 2 * col2, C2);
-            vst1q_f32(C + C_indx + 3 * col3, C3);
+            vst1q_f32(C + C_indx + 3 * col2, C3);
         }
     }
 
@@ -126,12 +121,7 @@ void multiplication_neon_float_4x4(const T& A, const T& B, const T& C) {
 }
 
 template <typename T>
-void multiplication_neon_float_2x2(const T& data1, const T& data2, const T& C) {
-    int row1 = data1.height;
-    int row2 = data2.height;
-    int col1 = data1.width;
-    int col2 = data2.width;
-
+void multiplication_neon_float_2x2(const T* A, const T* B, const T* C, int row1, int col1, int col2) {
     int A_indx;
     int B_indx;
     int C_indx;
@@ -183,7 +173,7 @@ void multiplication_neon_float_2x2(const T& data1, const T& data2, const T& C) {
         for (int j = 0; j < col2 - col2_mod; ++j)
             for (int k = col1 - col1_mod; k < col1; ++k)
                 C[i * col2 + j] += A[i * col1 + k] * B[k * col2 + j];
-       
+
         for (int j = col2 - col2_mod; j < col2; ++j)
             for (int k = 0; k < col1; ++k)
                 C[i * col2 + j] += A[i * col1 + k] * B[k * col2 + j];
@@ -194,6 +184,5 @@ void multiplication_neon_float_2x2(const T& data1, const T& data2, const T& C) {
             for (int k = 0; k < col1; ++k)
                 C[i * col2 + j] += A[i * col1 + k] * B[k * col2 + j];
 }
-
 
 #endif
