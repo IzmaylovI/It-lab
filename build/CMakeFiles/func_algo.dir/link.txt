@@ -1,2 +1,0 @@
-/usr/bin/ar qc libfunc_algo.a  CMakeFiles/func_algo.dir/sources/Imaging.cpp.o
-/usr/bin/ranlib libfunc_algo.a
