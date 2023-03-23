@@ -23,7 +23,7 @@ T multiplication_omp(const T& data1, const T& data2) {
     return res;
 }
 
-/*
+
 template <typename T>
 void multiplication_neon_float_4x4(const T& A, const T& B, const T& C) {
     int row1 = data1.height;
@@ -194,6 +194,6 @@ void multiplication_neon_float_2x2(const T& data1, const T& data2, const T& C) {
             for (int k = 0; k < col1; ++k)
                 C[i * col2 + j] += A[i * col1 + k] * B[k * col2 + j];
 }
-*/
+
 
 #endif
