@@ -1,7 +1,7 @@
 #ifndef _MTRX_
 #define _MTRX_
 
-#include <iostream>
+#include "Color.hpp"
 
 template <typename ValType>
 class Mtrx {
@@ -39,6 +39,9 @@ public:
     template <typename T>
     friend std::ostream& operator<<(std::ostream& out, const Mtrx<T>& mtrx_m);
 };
+
+template <mode Mode>
+using Image = Mtrx<Color<Mode>>;
 
 template <typename ValType> //contructor
 Mtrx<ValType>::Mtrx(int height_m, int width_m, ValType element)

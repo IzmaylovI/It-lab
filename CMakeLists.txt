@@ -5,12 +5,7 @@ set(CMAKE_C_COMPILER "C:/MinGW/bin/gcc.exe")
 
 project(computer_vision)
 
-set(HDR headers/Imaging.hpp)
-set(SRC sources/Imaging.cpp)
-
 include_directories(./headers)
-
-add_library(func_algo ${HDR} ${SRC})
 
 find_package(OpenMP)
 if(OpenMP_FOUND)
@@ -23,5 +18,4 @@ set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} ${OpenMP_C_FLAGS}")
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${OpenMP_CXX_FLAGS}")
 set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} ${OpenMP_EXE_LINKER_FLAGS}")
 
-add_executable(computer_vision main.cpp ./headers/Structer.hpp ./headers/data_render.hpp)
-target_link_libraries(computer_vision func_algo)
+add_executable(computer_vision main.cpp ./headers/Structer.hpp ./headers/data_render.hpp ./headers/Color.hpp)
