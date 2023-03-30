@@ -2,7 +2,7 @@
 #define _FUNCTION_
 
 #include <omp.h>
-#include <arm_neon.h>
+//#include <arm_neon.h>
 
 #define cllps 3
 #define thr 4

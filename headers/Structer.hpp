@@ -5,7 +5,7 @@
 
 template <typename ValType>
 class Mtrx {
-private:
+protected:
     ValType* data = nullptr;
 public:
     int height;
@@ -13,10 +13,10 @@ public:
 
     Mtrx(int height_m = 0, int width_m = 0, ValType element = 0);
     Mtrx(const Mtrx& mtrx_m);                                                       // copy constructor
-    Mtrx(Mtrx&& mtrx_m);                                                            
-                                                                                    
+    Mtrx(Mtrx&& mtrx_m);
+
     ~Mtrx() { delete[] data; }                                                      // destructor
-            
+
     ValType det();
 
     Mtrx<ValType>& operator=(const Mtrx<ValType>& mtrx_m);                          // assignment operator
@@ -30,8 +30,8 @@ public:
 
     // matrix operation
     template <typename T>
-    friend Mtrx<T> operator*(const Mtrx<T>& mtrx_left, const Mtrx<T>& mtrx_right); // multiplication
-    
+    friend Mtrx<T> operator*(const Mtrx<T>& mtrx_left, const Mtrx<T>& mtrx_right);  // multiplication
+
     template <typename T>
     friend Mtrx<T> Adamar(const Mtrx<T>& mtrx_left, const Mtrx<T>& mtrx_right);     // comp. multiplication
 
@@ -41,7 +41,22 @@ public:
 };
 
 template <mode Mode>
-using Image = Mtrx<Color<Mode>>;
+class Image : public Mtrx<Color<Mode>>
+{
+public:
+    Image(int height_m = 0, int width_m = 0, Color<Mode> color_m = 0)                // constructor
+        : Mtrx<Color<Mode>>(height_m, width_m, color_m) {}
+
+    unsigned char* splitR();                                                         // split component 
+    unsigned char* splitG();
+    unsigned char* splitB();
+};
+
+/// 
+/// 
+/// Mtrx
+/// 
+/// 
 
 template <typename ValType> //contructor
 Mtrx<ValType>::Mtrx(int height_m, int width_m, ValType element)
@@ -139,7 +154,7 @@ Mtrx<ValType> Mtrx<ValType>::operator/(const ValType& val) {
 template <typename T>
 Mtrx<T> operator*(const Mtrx<T>& mtrx_left, const Mtrx<T>& mtrx_right) {
     Mtrx<T> mtrx_result(mtrx_left.height, mtrx_right.width);
-    
+
     for (int i = 0; i < mtrx_left.height; i++) {
         for (int j = 0; j < mtrx_right.width; j++) {
             for (int k = 0; k < mtrx_left.width; k++) {
@@ -147,7 +162,7 @@ Mtrx<T> operator*(const Mtrx<T>& mtrx_left, const Mtrx<T>& mtrx_right) {
             }
         }
     }
-    
+
     return mtrx_result;
 } /*-------------------------------------------------------------------------*/
 
@@ -173,6 +188,39 @@ std::ostream& operator<<(std::ostream& out, const Mtrx<T>& mtrx_m) {
         out << '\n';
     }
     return out;
+} /*-------------------------------------------------------------------------*/
+
+/// 
+/// 
+/// Image
+/// 
+/// 
+
+template <mode Mode>
+unsigned char* Image<Mode>::splitR() {
+    unsigned char* R = new unsigned char[this->height * this->width];
+    for (int i = 0; i < this->height * this->width; i++) {
+        R[i] = this->data[i].R();
+    }
+    return R;
+} /*-------------------------------------------------------------------------*/
+
+template <mode Mode>
+unsigned char* Image<Mode>::splitG() {
+    unsigned char* G = new unsigned char[this->height * this->width];
+    for (int i = 0; i < this->height * this->width; i++) {
+        G[i] = this->data[i].G();
+    }
+    return G;
+} /*-------------------------------------------------------------------------*/
+
+template <mode Mode>
+unsigned char* Image<Mode>::splitB() {
+    unsigned char* B = new unsigned char[this->height * this->width];
+    for (int i = 0; i < this->height * this->width; i++) {
+        B[i] = this->data[i].B();
+    }
+    return B;
 } /*-------------------------------------------------------------------------*/
 
 #endif
