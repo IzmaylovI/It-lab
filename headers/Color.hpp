@@ -1,4 +1,5 @@
-#pragma once
+#ifndef _COLOR_
+#define _COLOR_
 #include <iostream>
 enum mode { rgb, bgr };
 
@@ -28,21 +29,12 @@ public:
     friend std::ostream& operator<<(std::ostream& out, const Color& color_m);
 };
 
-template <>
-Color<mode::rgb>::Color(const unsigned char& a, const unsigned char& b, const unsigned char& c, const unsigned char& d)
+template <mode Mode>
+Color<Mode>::Color(const unsigned char& a, const unsigned char& b, const unsigned char& c, const unsigned char& d)
 {
     components[0] = a;
     components[1] = b;
     components[2] = c;
-    components[3] = d;
-} /*-------------------------------------------------------------------------*/
-
-template <>
-Color<mode::bgr>::Color(const unsigned char& a, const unsigned char& b, const unsigned char& c, const unsigned char& d)
-{
-    components[0] = c;
-    components[1] = b;
-    components[2] = a;
     components[3] = d;
 } /*-------------------------------------------------------------------------*/
 
@@ -72,14 +64,24 @@ Color<Mode>& Color<Mode>::operator=(const unsigned char& char_m) {
     return *this;
 } /*-------------------------------------------------------------------------*/
 
-template <mode Mode>
-unsigned char& Color<Mode>::R() {
+template <>
+unsigned char& Color<mode::rgb>::R() {
     return components[0];
 } /*-------------------------------------------------------------------------*/
 
-template <mode Mode>
-const unsigned char& Color<Mode>::R() const {
+template <>
+const unsigned char& Color<mode::rgb>::R() const{
     return components[0];
+} /*-------------------------------------------------------------------------*/
+
+template <>
+unsigned char& Color<mode::bgr>::R() {
+    return components[2];
+} /*-------------------------------------------------------------------------*/
+
+template <>
+const unsigned char& Color<mode::bgr>::R() const {
+    return components[2];
 } /*-------------------------------------------------------------------------*/
 
 template <mode Mode>
@@ -92,14 +94,24 @@ const unsigned char& Color<Mode>::G() const {
     return components[1];
 } /*-------------------------------------------------------------------------*/
 
-template <mode Mode>
-unsigned char& Color<Mode>::B() {
+template <>
+unsigned char& Color<mode::rgb>::B() {
     return components[2];
 } /*-------------------------------------------------------------------------*/
 
-template <mode Mode>
-const unsigned char& Color<Mode>::B() const {
+template <>
+const unsigned char& Color<mode::rgb>::B() const {
     return components[2];
+} /*-------------------------------------------------------------------------*/
+
+template <>
+unsigned char& Color<mode::bgr>::B() {
+    return components[0];
+} /*-------------------------------------------------------------------------*/
+
+template <>
+const unsigned char& Color<mode::bgr>::B() const {
+    return components[0];
 } /*-------------------------------------------------------------------------*/
 
 template <mode Mode>
@@ -137,3 +149,4 @@ std::ostream& operator<<(std::ostream& out, const Color<mode::bgr>& color_m) {
     out << (int)color_m.B() << ',' << (int)color_m.G() << ',' << (int)color_m.R();
     return out;
 }
+#endif
