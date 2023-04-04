@@ -26,6 +26,7 @@ public:
     unsigned char& A();
     const unsigned char& A() const;
     void set_color(const unsigned char& a = 0, const unsigned char& b = 0, const unsigned char& c = 0, const unsigned char& d = 0);
+    unsigned char* getComp();
     friend std::ostream& operator<<(std::ostream& out, const Color& color_m);
 };
 
@@ -139,6 +140,16 @@ void Color<mode::bgr>::set_color(const unsigned char& a, const unsigned char& b,
     components[2] = a;
     components[3] = d;
 } /*-------------------------------------------------------------------------*/
+
+template <mode Mode>
+unsigned char* Color<Mode>::getComp(){
+    unsigned char* a = new unsigned char[4];
+    a[0] = components[0];
+    a[1] = components[1];
+    a[2] = components[2];
+    a[3] = components[3];
+    return a;
+}
 
 std::ostream& operator<<(std::ostream& out, const Color<mode::rgb>& color_m) {
     out << (int)color_m.R() << ',' << (int)color_m.G() << ',' << (int)color_m.B();

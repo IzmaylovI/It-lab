@@ -50,6 +50,7 @@ public:
     unsigned char* splitR();                                                         // split component 
     unsigned char* splitG();
     unsigned char* splitB();
+    unsigned char* getMemory(int a, int b);
 };
 
 /// 
@@ -222,5 +223,17 @@ unsigned char* Image<Mode>::splitB() {
     }
     return B;
 } /*-------------------------------------------------------------------------*/
+
+template <mode Mode>
+unsigned char* Image<Mode>::getMemory(int a, int b){
+    unsigned char* ret = new unsigned char[4*(b-a)];
+    for(int i = 0; i < b-a; i++){
+        unsigned char* tmp = this->data[i+a].getComp();
+        for(int j = 0; j < 4; j++){
+            ret[i*4 + j] = tmp[j];
+        }
+    }
+    return ret;
+}
 
 #endif
